@@ -1,0 +1,2711 @@
+[
+    {
+        "Player_Name":"Paolo Banchero",
+        "Proballers_ID":243742,
+        "Season":"21-22",
+        "Team":"Duke Blue Devils",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Paolo Banchero",
+        "Proballers_ID":243742,
+        "Season":"22-23",
+        "Team":"Orlando Magic",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Paolo Banchero",
+        "Proballers_ID":243742,
+        "Season":"23-24",
+        "Team":"Orlando Magic",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Paolo Banchero",
+        "Proballers_ID":243742,
+        "Season":"24-25",
+        "Team":"Orlando Magic",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Chet Holmgren",
+        "Proballers_ID":238693,
+        "Season":"21-22",
+        "Team":"Gonzaga Bulldogs",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Chet Holmgren",
+        "Proballers_ID":238693,
+        "Season":"23-24",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Chet Holmgren",
+        "Proballers_ID":238693,
+        "Season":"24-25",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jabari Smith Jr.",
+        "Proballers_ID":243787,
+        "Season":"21-22",
+        "Team":"Auburn Tigers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jabari Smith Jr.",
+        "Proballers_ID":243787,
+        "Season":"22-23",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jabari Smith Jr.",
+        "Proballers_ID":243787,
+        "Season":"23-24",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jabari Smith Jr.",
+        "Proballers_ID":243787,
+        "Season":"24-25",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Keegan Murray",
+        "Proballers_ID":233273,
+        "Season":"20-21",
+        "Team":"Iowa Hawkeyes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Keegan Murray",
+        "Proballers_ID":233273,
+        "Season":"21-22",
+        "Team":"Iowa Hawkeyes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Keegan Murray",
+        "Proballers_ID":233273,
+        "Season":"22-23",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Keegan Murray",
+        "Proballers_ID":233273,
+        "Season":"23-24",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Keegan Murray",
+        "Proballers_ID":233273,
+        "Season":"24-25",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jaden Ivey",
+        "Proballers_ID":233956,
+        "Season":"20-21",
+        "Team":"Purdue Boilermakers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jaden Ivey",
+        "Proballers_ID":233956,
+        "Season":"21-22",
+        "Team":"Purdue Boilermakers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jaden Ivey",
+        "Proballers_ID":233956,
+        "Season":"22-23",
+        "Team":"Detroit Pistons",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jaden Ivey",
+        "Proballers_ID":233956,
+        "Season":"23-24",
+        "Team":"Detroit Pistons",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jaden Ivey",
+        "Proballers_ID":233956,
+        "Season":"24-25",
+        "Team":"Detroit Pistons",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Bennedict Mathurin",
+        "Proballers_ID":232570,
+        "Season":"20-21",
+        "Team":"Arizona Wildcats",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Bennedict Mathurin",
+        "Proballers_ID":232570,
+        "Season":"21-22",
+        "Team":"Arizona Wildcats",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Bennedict Mathurin",
+        "Proballers_ID":232570,
+        "Season":"22-23",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Bennedict Mathurin",
+        "Proballers_ID":232570,
+        "Season":"23-24",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Bennedict Mathurin",
+        "Proballers_ID":232570,
+        "Season":"24-25",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Shaedon Sharpe",
+        "Proballers_ID":256724,
+        "Season":"22-23",
+        "Team":"Portland Trail Blazers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Shaedon Sharpe",
+        "Proballers_ID":256724,
+        "Season":"23-24",
+        "Team":"Portland Trail Blazers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Shaedon Sharpe",
+        "Proballers_ID":256724,
+        "Season":"24-25",
+        "Team":"Portland Trail Blazers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Dyson Daniels",
+        "Proballers_ID":238688,
+        "Season":"21-22",
+        "Team":"G-League Ignite",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Dyson Daniels",
+        "Proballers_ID":238688,
+        "Season":"22-23",
+        "Team":"New Orleans Pelicans",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Dyson Daniels",
+        "Proballers_ID":238688,
+        "Season":"23-24",
+        "Team":"New Orleans Pelicans",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Dyson Daniels",
+        "Proballers_ID":238688,
+        "Season":"23-24",
+        "Team":"Birmingham Squadron",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Dyson Daniels",
+        "Proballers_ID":238688,
+        "Season":"24-25",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeremy Sochan",
+        "Proballers_ID":176231,
+        "Season":"20-21",
+        "Team":"OrangeAcademy",
+        "League":"GER-3"
+    },
+    {
+        "Player_Name":"Jeremy Sochan",
+        "Proballers_ID":176231,
+        "Season":"21-22",
+        "Team":"Baylor Bears",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jeremy Sochan",
+        "Proballers_ID":176231,
+        "Season":"22-23",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeremy Sochan",
+        "Proballers_ID":176231,
+        "Season":"23-24",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeremy Sochan",
+        "Proballers_ID":176231,
+        "Season":"24-25",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Johnny Davis",
+        "Proballers_ID":234619,
+        "Season":"20-21",
+        "Team":"Wisconsin Badgers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Johnny Davis",
+        "Proballers_ID":234619,
+        "Season":"21-22",
+        "Team":"Wisconsin Badgers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Johnny Davis",
+        "Proballers_ID":234619,
+        "Season":"22-23",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Johnny Davis",
+        "Proballers_ID":234619,
+        "Season":"22-23",
+        "Team":"Capital City Go-Go",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Johnny Davis",
+        "Proballers_ID":234619,
+        "Season":"23-24",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Johnny Davis",
+        "Proballers_ID":234619,
+        "Season":"23-24",
+        "Team":"Capital City Go-Go",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Johnny Davis",
+        "Proballers_ID":234619,
+        "Season":"24-25",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Johnny Davis",
+        "Proballers_ID":234619,
+        "Season":"24-25",
+        "Team":"Capital City Go-Go",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Johnny Davis",
+        "Proballers_ID":234619,
+        "Season":"24-25",
+        "Team":"Westchester Knicks",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Ousmane Dieng",
+        "Proballers_ID":180215,
+        "Season":"19-20",
+        "Team":"P\u00f4le France",
+        "League":"FRA-3"
+    },
+    {
+        "Player_Name":"Ousmane Dieng",
+        "Proballers_ID":180215,
+        "Season":"20-21",
+        "Team":"P\u00f4le France",
+        "League":"FRA-3"
+    },
+    {
+        "Player_Name":"Ousmane Dieng",
+        "Proballers_ID":180215,
+        "Season":"21-22",
+        "Team":"New Zealand Breakers",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Ousmane Dieng",
+        "Proballers_ID":180215,
+        "Season":"22-23",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ousmane Dieng",
+        "Proballers_ID":180215,
+        "Season":"22-23",
+        "Team":"Oklahoma City Blue",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Ousmane Dieng",
+        "Proballers_ID":180215,
+        "Season":"23-24",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ousmane Dieng",
+        "Proballers_ID":180215,
+        "Season":"23-24",
+        "Team":"Oklahoma City Blue",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Ousmane Dieng",
+        "Proballers_ID":180215,
+        "Season":"24-25",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ousmane Dieng",
+        "Proballers_ID":180215,
+        "Season":"24-25",
+        "Team":"Oklahoma City Blue",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Jalen Williams",
+        "Proballers_ID":192499,
+        "Season":"19-20",
+        "Team":"Santa Clara Broncos",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jalen Williams",
+        "Proballers_ID":192499,
+        "Season":"20-21",
+        "Team":"Santa Clara Broncos",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jalen Williams",
+        "Proballers_ID":192499,
+        "Season":"21-22",
+        "Team":"Santa Clara Broncos",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jalen Williams",
+        "Proballers_ID":192499,
+        "Season":"22-23",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jalen Williams",
+        "Proballers_ID":192499,
+        "Season":"23-24",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jalen Williams",
+        "Proballers_ID":192499,
+        "Season":"24-25",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jalen Duren",
+        "Proballers_ID":243173,
+        "Season":"21-22",
+        "Team":"Memphis Tigers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jalen Duren",
+        "Proballers_ID":243173,
+        "Season":"22-23",
+        "Team":"Detroit Pistons",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jalen Duren",
+        "Proballers_ID":243173,
+        "Season":"23-24",
+        "Team":"Detroit Pistons",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jalen Duren",
+        "Proballers_ID":243173,
+        "Season":"24-25",
+        "Team":"Detroit Pistons",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ochai Agbaji",
+        "Proballers_ID":178555,
+        "Season":"18-19",
+        "Team":"Kansas Jayhawks",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Ochai Agbaji",
+        "Proballers_ID":178555,
+        "Season":"19-20",
+        "Team":"Kansas Jayhawks",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Ochai Agbaji",
+        "Proballers_ID":178555,
+        "Season":"20-21",
+        "Team":"Kansas Jayhawks",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Ochai Agbaji",
+        "Proballers_ID":178555,
+        "Season":"21-22",
+        "Team":"Kansas Jayhawks",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Ochai Agbaji",
+        "Proballers_ID":178555,
+        "Season":"22-23",
+        "Team":"Utah Jazz",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ochai Agbaji",
+        "Proballers_ID":178555,
+        "Season":"22-23",
+        "Team":"Salt Lake City Stars",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Ochai Agbaji",
+        "Proballers_ID":178555,
+        "Season":"23-24",
+        "Team":"Utah Jazz",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ochai Agbaji",
+        "Proballers_ID":178555,
+        "Season":"23-24",
+        "Team":"Toronto Raptors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ochai Agbaji",
+        "Proballers_ID":178555,
+        "Season":"24-25",
+        "Team":"Toronto Raptors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mark Williams",
+        "Proballers_ID":232930,
+        "Season":"20-21",
+        "Team":"Duke Blue Devils",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Mark Williams",
+        "Proballers_ID":232930,
+        "Season":"21-22",
+        "Team":"Duke Blue Devils",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Mark Williams",
+        "Proballers_ID":232930,
+        "Season":"22-23",
+        "Team":"Charlotte Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mark Williams",
+        "Proballers_ID":232930,
+        "Season":"22-23",
+        "Team":"Greensboro Swarm",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Mark Williams",
+        "Proballers_ID":232930,
+        "Season":"23-24",
+        "Team":"Charlotte Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mark Williams",
+        "Proballers_ID":232930,
+        "Season":"24-25",
+        "Team":"Charlotte Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"AJ Griffin",
+        "Proballers_ID":243743,
+        "Season":"21-22",
+        "Team":"Duke Blue Devils",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"AJ Griffin",
+        "Proballers_ID":243743,
+        "Season":"22-23",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"AJ Griffin",
+        "Proballers_ID":243743,
+        "Season":"23-24",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"AJ Griffin",
+        "Proballers_ID":243743,
+        "Season":"23-24",
+        "Team":"College Park Skyhawks",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Tari Eason",
+        "Proballers_ID":232796,
+        "Season":"20-21",
+        "Team":"Cincinnati Bearcats",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Tari Eason",
+        "Proballers_ID":232796,
+        "Season":"21-22",
+        "Team":"LSU Tigers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Tari Eason",
+        "Proballers_ID":232796,
+        "Season":"22-23",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Tari Eason",
+        "Proballers_ID":232796,
+        "Season":"23-24",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Tari Eason",
+        "Proballers_ID":232796,
+        "Season":"24-25",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Dalen Terry",
+        "Proballers_ID":232571,
+        "Season":"20-21",
+        "Team":"Arizona Wildcats",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Dalen Terry",
+        "Proballers_ID":232571,
+        "Season":"21-22",
+        "Team":"Arizona Wildcats",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Dalen Terry",
+        "Proballers_ID":232571,
+        "Season":"22-23",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Dalen Terry",
+        "Proballers_ID":232571,
+        "Season":"22-23",
+        "Team":"Windy City Bulls",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Dalen Terry",
+        "Proballers_ID":232571,
+        "Season":"23-24",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Dalen Terry",
+        "Proballers_ID":232571,
+        "Season":"23-24",
+        "Team":"Windy City Bulls",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Dalen Terry",
+        "Proballers_ID":232571,
+        "Season":"24-25",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jake LaRavia",
+        "Proballers_ID":190811,
+        "Season":"19-20",
+        "Team":"Indiana State Sycamores",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jake LaRavia",
+        "Proballers_ID":190811,
+        "Season":"20-21",
+        "Team":"Indiana State Sycamores",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jake LaRavia",
+        "Proballers_ID":190811,
+        "Season":"21-22",
+        "Team":"Wake Forest Demon Deacons",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jake LaRavia",
+        "Proballers_ID":190811,
+        "Season":"22-23",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jake LaRavia",
+        "Proballers_ID":190811,
+        "Season":"22-23",
+        "Team":"Memphis Hustle",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Jake LaRavia",
+        "Proballers_ID":190811,
+        "Season":"23-24",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jake LaRavia",
+        "Proballers_ID":190811,
+        "Season":"23-24",
+        "Team":"Memphis Hustle",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Jake LaRavia",
+        "Proballers_ID":190811,
+        "Season":"24-25",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jake LaRavia",
+        "Proballers_ID":190811,
+        "Season":"24-25",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Malaki Branham",
+        "Proballers_ID":243224,
+        "Season":"21-22",
+        "Team":"Ohio State Buckeyes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Malaki Branham",
+        "Proballers_ID":243224,
+        "Season":"22-23",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Malaki Branham",
+        "Proballers_ID":243224,
+        "Season":"22-23",
+        "Team":"Austin Spurs",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Malaki Branham",
+        "Proballers_ID":243224,
+        "Season":"23-24",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Malaki Branham",
+        "Proballers_ID":243224,
+        "Season":"24-25",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Malaki Branham",
+        "Proballers_ID":243224,
+        "Season":"24-25",
+        "Team":"Austin Spurs",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Christian Braun",
+        "Proballers_ID":189229,
+        "Season":"19-20",
+        "Team":"Kansas Jayhawks",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Christian Braun",
+        "Proballers_ID":189229,
+        "Season":"20-21",
+        "Team":"Kansas Jayhawks",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Christian Braun",
+        "Proballers_ID":189229,
+        "Season":"21-22",
+        "Team":"Kansas Jayhawks",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Christian Braun",
+        "Proballers_ID":189229,
+        "Season":"22-23",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Christian Braun",
+        "Proballers_ID":189229,
+        "Season":"23-24",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Christian Braun",
+        "Proballers_ID":189229,
+        "Season":"24-25",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Walker Kessler",
+        "Proballers_ID":183290,
+        "Season":"20-21",
+        "Team":"North Carolina Tar Heels",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Walker Kessler",
+        "Proballers_ID":183290,
+        "Season":"21-22",
+        "Team":"Auburn Tigers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Walker Kessler",
+        "Proballers_ID":183290,
+        "Season":"22-23",
+        "Team":"Utah Jazz",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Walker Kessler",
+        "Proballers_ID":183290,
+        "Season":"23-24",
+        "Team":"Utah Jazz",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Walker Kessler",
+        "Proballers_ID":183290,
+        "Season":"24-25",
+        "Team":"Utah Jazz",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"David Roddy",
+        "Proballers_ID":190935,
+        "Season":"19-20",
+        "Team":"Colorado State Rams",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"David Roddy",
+        "Proballers_ID":190935,
+        "Season":"20-21",
+        "Team":"Colorado State Rams",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"David Roddy",
+        "Proballers_ID":190935,
+        "Season":"21-22",
+        "Team":"Colorado State Rams",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"David Roddy",
+        "Proballers_ID":190935,
+        "Season":"22-23",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"David Roddy",
+        "Proballers_ID":190935,
+        "Season":"22-23",
+        "Team":"Memphis Hustle",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"David Roddy",
+        "Proballers_ID":190935,
+        "Season":"23-24",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"David Roddy",
+        "Proballers_ID":190935,
+        "Season":"23-24",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"David Roddy",
+        "Proballers_ID":190935,
+        "Season":"24-25",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"David Roddy",
+        "Proballers_ID":190935,
+        "Season":"24-25",
+        "Team":"Delaware Blue Coats",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"David Roddy",
+        "Proballers_ID":190935,
+        "Season":"24-25",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"David Roddy",
+        "Proballers_ID":190935,
+        "Season":"24-25",
+        "Team":"Rio Grande Valley Vipers",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"David Roddy",
+        "Proballers_ID":190935,
+        "Season":"24-25",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"MarJon Beauchamp",
+        "Proballers_ID":247472,
+        "Season":"21-22",
+        "Team":"G-League Ignite",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"MarJon Beauchamp",
+        "Proballers_ID":247472,
+        "Season":"22-23",
+        "Team":"Milwaukee Bucks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"MarJon Beauchamp",
+        "Proballers_ID":247472,
+        "Season":"22-23",
+        "Team":"Wisconsin Herd",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"MarJon Beauchamp",
+        "Proballers_ID":247472,
+        "Season":"23-24",
+        "Team":"Milwaukee Bucks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"MarJon Beauchamp",
+        "Proballers_ID":247472,
+        "Season":"23-24",
+        "Team":"Wisconsin Herd",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"MarJon Beauchamp",
+        "Proballers_ID":247472,
+        "Season":"24-25",
+        "Team":"Milwaukee Bucks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"MarJon Beauchamp",
+        "Proballers_ID":247472,
+        "Season":"24-25",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"MarJon Beauchamp",
+        "Proballers_ID":247472,
+        "Season":"24-25",
+        "Team":"New York Knicks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Blake Wesley",
+        "Proballers_ID":247013,
+        "Season":"21-22",
+        "Team":"Notre Dame Fighting Irish",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Blake Wesley",
+        "Proballers_ID":247013,
+        "Season":"22-23",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Blake Wesley",
+        "Proballers_ID":247013,
+        "Season":"22-23",
+        "Team":"Austin Spurs",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Blake Wesley",
+        "Proballers_ID":247013,
+        "Season":"23-24",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Blake Wesley",
+        "Proballers_ID":247013,
+        "Season":"23-24",
+        "Team":"Austin Spurs",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Blake Wesley",
+        "Proballers_ID":247013,
+        "Season":"24-25",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wendell Moore Jr.",
+        "Proballers_ID":175039,
+        "Season":"19-20",
+        "Team":"Duke Blue Devils",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Wendell Moore Jr.",
+        "Proballers_ID":175039,
+        "Season":"20-21",
+        "Team":"Duke Blue Devils",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Wendell Moore Jr.",
+        "Proballers_ID":175039,
+        "Season":"21-22",
+        "Team":"Duke Blue Devils",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Wendell Moore Jr.",
+        "Proballers_ID":175039,
+        "Season":"22-23",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wendell Moore Jr.",
+        "Proballers_ID":175039,
+        "Season":"22-23",
+        "Team":"Iowa Wolves",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Wendell Moore Jr.",
+        "Proballers_ID":175039,
+        "Season":"23-24",
+        "Team":"Iowa Wolves",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Wendell Moore Jr.",
+        "Proballers_ID":175039,
+        "Season":"23-24",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wendell Moore Jr.",
+        "Proballers_ID":175039,
+        "Season":"24-25",
+        "Team":"Detroit Pistons",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wendell Moore Jr.",
+        "Proballers_ID":175039,
+        "Season":"24-25",
+        "Team":"Charlotte Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nikola Jovi\u0107",
+        "Proballers_ID":183633,
+        "Season":"20-21",
+        "Team":"Mega SoccerBet",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"Nikola Jovi\u0107",
+        "Proballers_ID":183633,
+        "Season":"20-21",
+        "Team":"Mega Bemax",
+        "League":"ABA U19"
+    },
+    {
+        "Player_Name":"Nikola Jovi\u0107",
+        "Proballers_ID":183633,
+        "Season":"21-22",
+        "Team":"Mega Mozzart",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"Nikola Jovi\u0107",
+        "Proballers_ID":183633,
+        "Season":"22-23",
+        "Team":"Miami Heat",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nikola Jovi\u0107",
+        "Proballers_ID":183633,
+        "Season":"22-23",
+        "Team":"Sioux Falls Skyforce",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Nikola Jovi\u0107",
+        "Proballers_ID":183633,
+        "Season":"23-24",
+        "Team":"Miami Heat",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nikola Jovi\u0107",
+        "Proballers_ID":183633,
+        "Season":"23-24",
+        "Team":"Sioux Falls Skyforce",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Nikola Jovi\u0107",
+        "Proballers_ID":183633,
+        "Season":"24-25",
+        "Team":"Miami Heat",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Patrick Baldwin Jr.",
+        "Proballers_ID":238697,
+        "Season":"21-22",
+        "Team":"Milwaukee Panthers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Patrick Baldwin Jr.",
+        "Proballers_ID":238697,
+        "Season":"22-23",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Patrick Baldwin Jr.",
+        "Proballers_ID":238697,
+        "Season":"22-23",
+        "Team":"Santa Cruz Warriors",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Patrick Baldwin Jr.",
+        "Proballers_ID":238697,
+        "Season":"23-24",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Patrick Baldwin Jr.",
+        "Proballers_ID":238697,
+        "Season":"23-24",
+        "Team":"Capital City Go-Go",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Patrick Baldwin Jr.",
+        "Proballers_ID":238697,
+        "Season":"24-25",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Patrick Baldwin Jr.",
+        "Proballers_ID":238697,
+        "Season":"24-25",
+        "Team":"Capital City Go-Go",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Patrick Baldwin Jr.",
+        "Proballers_ID":238697,
+        "Season":"24-25",
+        "Team":"Ontario Clippers",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Patrick Baldwin Jr.",
+        "Proballers_ID":238697,
+        "Season":"24-25",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"TyTy Washington Jr.",
+        "Proballers_ID":246633,
+        "Season":"21-22",
+        "Team":"Kentucky Wildcats",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"TyTy Washington Jr.",
+        "Proballers_ID":246633,
+        "Season":"22-23",
+        "Team":"Rio Grande Valley Vipers",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"TyTy Washington Jr.",
+        "Proballers_ID":246633,
+        "Season":"22-23",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"TyTy Washington Jr.",
+        "Proballers_ID":246633,
+        "Season":"23-24",
+        "Team":"Milwaukee Bucks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"TyTy Washington Jr.",
+        "Proballers_ID":246633,
+        "Season":"23-24",
+        "Team":"Wisconsin Herd",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"TyTy Washington Jr.",
+        "Proballers_ID":246633,
+        "Season":"24-25",
+        "Team":"Valley Suns",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"TyTy Washington Jr.",
+        "Proballers_ID":246633,
+        "Season":"24-25",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Peyton Watson",
+        "Proballers_ID":238694,
+        "Season":"21-22",
+        "Team":"UCLA Bruins",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Peyton Watson",
+        "Proballers_ID":238694,
+        "Season":"22-23",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Peyton Watson",
+        "Proballers_ID":238694,
+        "Season":"22-23",
+        "Team":"Grand Rapids Gold",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Peyton Watson",
+        "Proballers_ID":238694,
+        "Season":"23-24",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Peyton Watson",
+        "Proballers_ID":238694,
+        "Season":"24-25",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Andrew Nembhard",
+        "Proballers_ID":70068,
+        "Season":"18-19",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Andrew Nembhard",
+        "Proballers_ID":70068,
+        "Season":"19-20",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Andrew Nembhard",
+        "Proballers_ID":70068,
+        "Season":"20-21",
+        "Team":"Gonzaga Bulldogs",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Andrew Nembhard",
+        "Proballers_ID":70068,
+        "Season":"21-22",
+        "Team":"Gonzaga Bulldogs",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Andrew Nembhard",
+        "Proballers_ID":70068,
+        "Season":"22-23",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Andrew Nembhard",
+        "Proballers_ID":70068,
+        "Season":"23-24",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Andrew Nembhard",
+        "Proballers_ID":70068,
+        "Season":"24-25",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Caleb Houstan",
+        "Proballers_ID":174998,
+        "Season":"21-22",
+        "Team":"Michigan Wolverines",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Caleb Houstan",
+        "Proballers_ID":174998,
+        "Season":"22-23",
+        "Team":"Orlando Magic",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Caleb Houstan",
+        "Proballers_ID":174998,
+        "Season":"22-23",
+        "Team":"Osceola Magic",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Caleb Houstan",
+        "Proballers_ID":174998,
+        "Season":"23-24",
+        "Team":"Orlando Magic",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Caleb Houstan",
+        "Proballers_ID":174998,
+        "Season":"24-25",
+        "Team":"Orlando Magic",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Caleb Houstan",
+        "Proballers_ID":174998,
+        "Season":"24-25",
+        "Team":"Osceola Magic",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Christian Koloko",
+        "Proballers_ID":191347,
+        "Season":"19-20",
+        "Team":"Arizona Wildcats",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Christian Koloko",
+        "Proballers_ID":191347,
+        "Season":"20-21",
+        "Team":"Arizona Wildcats",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Christian Koloko",
+        "Proballers_ID":191347,
+        "Season":"21-22",
+        "Team":"Arizona Wildcats",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Christian Koloko",
+        "Proballers_ID":191347,
+        "Season":"22-23",
+        "Team":"Toronto Raptors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Christian Koloko",
+        "Proballers_ID":191347,
+        "Season":"22-23",
+        "Team":"Raptors 905",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Christian Koloko",
+        "Proballers_ID":191347,
+        "Season":"24-25",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Christian Koloko",
+        "Proballers_ID":191347,
+        "Season":"24-25",
+        "Team":"South Bay Lakers",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Jaylin Williams",
+        "Proballers_ID":236317,
+        "Season":"21-22",
+        "Team":"Arkansas Razorbacks",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jaylin Williams",
+        "Proballers_ID":236317,
+        "Season":"22-23",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jaylin Williams",
+        "Proballers_ID":236317,
+        "Season":"22-23",
+        "Team":"Oklahoma City Blue",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Jaylin Williams",
+        "Proballers_ID":236317,
+        "Season":"23-24",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jaylin Williams",
+        "Proballers_ID":236317,
+        "Season":"24-25",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Max Christie",
+        "Proballers_ID":246339,
+        "Season":"21-22",
+        "Team":"Michigan State Spartans",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Max Christie",
+        "Proballers_ID":246339,
+        "Season":"22-23",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Max Christie",
+        "Proballers_ID":246339,
+        "Season":"22-23",
+        "Team":"South Bay Lakers",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Max Christie",
+        "Proballers_ID":246339,
+        "Season":"23-24",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Max Christie",
+        "Proballers_ID":246339,
+        "Season":"24-25",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Max Christie",
+        "Proballers_ID":246339,
+        "Season":"24-25",
+        "Team":"Dallas Mavericks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Gabriele Procida",
+        "Proballers_ID":175863,
+        "Season":"19-20",
+        "Team":"Acqua S. Bernardo Cant\u00f9",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Gabriele Procida",
+        "Proballers_ID":175863,
+        "Season":"20-21",
+        "Team":"Acqua S. Bernardo Cant\u00f9",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Gabriele Procida",
+        "Proballers_ID":175863,
+        "Season":"21-22",
+        "Team":"Fortitudo Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Gabriele Procida",
+        "Proballers_ID":175863,
+        "Season":"22-23",
+        "Team":"ALBA Berlin",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Gabriele Procida",
+        "Proballers_ID":175863,
+        "Season":"23-24",
+        "Team":"ALBA Berlin",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Gabriele Procida",
+        "Proballers_ID":175863,
+        "Season":"24-25",
+        "Team":"ALBA Berlin",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Jaden Hardy",
+        "Proballers_ID":247474,
+        "Season":"21-22",
+        "Team":"G-League Ignite",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Jaden Hardy",
+        "Proballers_ID":247474,
+        "Season":"22-23",
+        "Team":"Dallas Mavericks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jaden Hardy",
+        "Proballers_ID":247474,
+        "Season":"22-23",
+        "Team":"Texas Legends",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Jaden Hardy",
+        "Proballers_ID":247474,
+        "Season":"23-24",
+        "Team":"Dallas Mavericks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jaden Hardy",
+        "Proballers_ID":247474,
+        "Season":"24-25",
+        "Team":"Dallas Mavericks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kennedy Chandler",
+        "Proballers_ID":238692,
+        "Season":"21-22",
+        "Team":"Tennessee Volunteers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Kennedy Chandler",
+        "Proballers_ID":238692,
+        "Season":"22-23",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kennedy Chandler",
+        "Proballers_ID":238692,
+        "Season":"22-23",
+        "Team":"Memphis Hustle",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Kennedy Chandler",
+        "Proballers_ID":238692,
+        "Season":"23-24",
+        "Team":"Long Island Nets",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Kennedy Chandler",
+        "Proballers_ID":238692,
+        "Season":"24-25",
+        "Team":"Raptors 905",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Khalifa Diop",
+        "Proballers_ID":178770,
+        "Season":"19-20",
+        "Team":"CBA Gran Canaria",
+        "League":"SPA-3"
+    },
+    {
+        "Player_Name":"Khalifa Diop",
+        "Proballers_ID":178770,
+        "Season":"19-20",
+        "Team":"Gran Canaria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Khalifa Diop",
+        "Proballers_ID":178770,
+        "Season":"20-21",
+        "Team":"Gran Canaria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Khalifa Diop",
+        "Proballers_ID":178770,
+        "Season":"20-21",
+        "Team":"CBA Gran Canaria",
+        "League":"SPA-3"
+    },
+    {
+        "Player_Name":"Khalifa Diop",
+        "Proballers_ID":178770,
+        "Season":"21-22",
+        "Team":"Gran Canaria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Khalifa Diop",
+        "Proballers_ID":178770,
+        "Season":"22-23",
+        "Team":"Gran Canaria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Khalifa Diop",
+        "Proballers_ID":178770,
+        "Season":"23-24",
+        "Team":"Baskonia",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Khalifa Diop",
+        "Proballers_ID":178770,
+        "Season":"24-25",
+        "Team":"Baskonia",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Bryce McGowens",
+        "Proballers_ID":246348,
+        "Season":"21-22",
+        "Team":"Nebraska Cornhuskers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Bryce McGowens",
+        "Proballers_ID":246348,
+        "Season":"22-23",
+        "Team":"Charlotte Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Bryce McGowens",
+        "Proballers_ID":246348,
+        "Season":"22-23",
+        "Team":"Greensboro Swarm",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Bryce McGowens",
+        "Proballers_ID":246348,
+        "Season":"23-24",
+        "Team":"Charlotte Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Bryce McGowens",
+        "Proballers_ID":246348,
+        "Season":"24-25",
+        "Team":"Rip City Remix",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Bryce McGowens",
+        "Proballers_ID":246348,
+        "Season":"24-25",
+        "Team":"Portland Trail Blazers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"E.J. Liddell",
+        "Proballers_ID":189712,
+        "Season":"19-20",
+        "Team":"Ohio State Buckeyes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"E.J. Liddell",
+        "Proballers_ID":189712,
+        "Season":"20-21",
+        "Team":"Ohio State Buckeyes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"E.J. Liddell",
+        "Proballers_ID":189712,
+        "Season":"21-22",
+        "Team":"Ohio State Buckeyes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"E.J. Liddell",
+        "Proballers_ID":189712,
+        "Season":"23-24",
+        "Team":"New Orleans Pelicans",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"E.J. Liddell",
+        "Proballers_ID":189712,
+        "Season":"23-24",
+        "Team":"Birmingham Squadron",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"E.J. Liddell",
+        "Proballers_ID":189712,
+        "Season":"24-25",
+        "Team":"Windy City Bulls",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"E.J. Liddell",
+        "Proballers_ID":189712,
+        "Season":"24-25",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Trevor Keels",
+        "Proballers_ID":243740,
+        "Season":"21-22",
+        "Team":"Duke Blue Devils",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Trevor Keels",
+        "Proballers_ID":243740,
+        "Season":"22-23",
+        "Team":"New York Knicks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Trevor Keels",
+        "Proballers_ID":243740,
+        "Season":"22-23",
+        "Team":"Westchester Knicks",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Trevor Keels",
+        "Proballers_ID":243740,
+        "Season":"23-24",
+        "Team":"Iowa Wolves",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Trevor Keels",
+        "Proballers_ID":243740,
+        "Season":"24-25",
+        "Team":"Iowa Wolves",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Moussa Diabat\u00e9",
+        "Proballers_ID":175857,
+        "Season":"21-22",
+        "Team":"Michigan Wolverines",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Moussa Diabat\u00e9",
+        "Proballers_ID":175857,
+        "Season":"22-23",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Moussa Diabat\u00e9",
+        "Proballers_ID":175857,
+        "Season":"22-23",
+        "Team":"Ontario Clippers",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Moussa Diabat\u00e9",
+        "Proballers_ID":175857,
+        "Season":"23-24",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Moussa Diabat\u00e9",
+        "Proballers_ID":175857,
+        "Season":"23-24",
+        "Team":"Ontario Clippers",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Moussa Diabat\u00e9",
+        "Proballers_ID":175857,
+        "Season":"24-25",
+        "Team":"Charlotte Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Moussa Diabat\u00e9",
+        "Proballers_ID":175857,
+        "Season":"24-25",
+        "Team":"Greensboro Swarm",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Ryan Rollins",
+        "Proballers_ID":234340,
+        "Season":"20-21",
+        "Team":"Toledo Rockets",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Ryan Rollins",
+        "Proballers_ID":234340,
+        "Season":"21-22",
+        "Team":"Toledo Rockets",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Ryan Rollins",
+        "Proballers_ID":234340,
+        "Season":"22-23",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ryan Rollins",
+        "Proballers_ID":234340,
+        "Season":"22-23",
+        "Team":"Santa Cruz Warriors",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Ryan Rollins",
+        "Proballers_ID":234340,
+        "Season":"23-24",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ryan Rollins",
+        "Proballers_ID":234340,
+        "Season":"23-24",
+        "Team":"Capital City Go-Go",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Ryan Rollins",
+        "Proballers_ID":234340,
+        "Season":"23-24",
+        "Team":"Wisconsin Herd",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Ryan Rollins",
+        "Proballers_ID":234340,
+        "Season":"23-24",
+        "Team":"Milwaukee Bucks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ryan Rollins",
+        "Proballers_ID":234340,
+        "Season":"24-25",
+        "Team":"Milwaukee Bucks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Josh Minott",
+        "Proballers_ID":243175,
+        "Season":"21-22",
+        "Team":"Memphis Tigers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Josh Minott",
+        "Proballers_ID":243175,
+        "Season":"22-23",
+        "Team":"Iowa Wolves",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Josh Minott",
+        "Proballers_ID":243175,
+        "Season":"22-23",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Josh Minott",
+        "Proballers_ID":243175,
+        "Season":"23-24",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Josh Minott",
+        "Proballers_ID":243175,
+        "Season":"23-24",
+        "Team":"Iowa Wolves",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Josh Minott",
+        "Proballers_ID":243175,
+        "Season":"24-25",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ismael Kamagate",
+        "Proballers_ID":179716,
+        "Season":"19-20",
+        "Team":"P\u00f4le France",
+        "League":"FRA-3"
+    },
+    {
+        "Player_Name":"Ismael Kamagate",
+        "Proballers_ID":179716,
+        "Season":"19-20",
+        "Team":"Paris Basketball",
+        "League":"FRA-2"
+    },
+    {
+        "Player_Name":"Ismael Kamagate",
+        "Proballers_ID":179716,
+        "Season":"20-21",
+        "Team":"Paris Basketball",
+        "League":"FRA-2"
+    },
+    {
+        "Player_Name":"Ismael Kamagate",
+        "Proballers_ID":179716,
+        "Season":"21-22",
+        "Team":"Paris Basketball",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Ismael Kamagate",
+        "Proballers_ID":179716,
+        "Season":"22-23",
+        "Team":"Paris Basketball",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Ismael Kamagate",
+        "Proballers_ID":179716,
+        "Season":"23-24",
+        "Team":"EA7 Milano",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Ismael Kamagate",
+        "Proballers_ID":179716,
+        "Season":"23-24",
+        "Team":"Tortona",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Ismael Kamagate",
+        "Proballers_ID":179716,
+        "Season":"24-25",
+        "Team":"Tortona",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Vince Williams Jr.",
+        "Proballers_ID":178689,
+        "Season":"18-19",
+        "Team":"VCU Rams",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Vince Williams Jr.",
+        "Proballers_ID":178689,
+        "Season":"19-20",
+        "Team":"VCU Rams",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Vince Williams Jr.",
+        "Proballers_ID":178689,
+        "Season":"20-21",
+        "Team":"VCU Rams",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Vince Williams Jr.",
+        "Proballers_ID":178689,
+        "Season":"21-22",
+        "Team":"VCU Rams",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Vince Williams Jr.",
+        "Proballers_ID":178689,
+        "Season":"22-23",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Vince Williams Jr.",
+        "Proballers_ID":178689,
+        "Season":"22-23",
+        "Team":"Memphis Hustle",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Vince Williams Jr.",
+        "Proballers_ID":178689,
+        "Season":"23-24",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Vince Williams Jr.",
+        "Proballers_ID":178689,
+        "Season":"23-24",
+        "Team":"Memphis Hustle",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Vince Williams Jr.",
+        "Proballers_ID":178689,
+        "Season":"24-25",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kendall Brown",
+        "Proballers_ID":248795,
+        "Season":"21-22",
+        "Team":"Baylor Bears",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Kendall Brown",
+        "Proballers_ID":248795,
+        "Season":"22-23",
+        "Team":"Indiana Mad Ants",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Kendall Brown",
+        "Proballers_ID":248795,
+        "Season":"22-23",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kendall Brown",
+        "Proballers_ID":248795,
+        "Season":"23-24",
+        "Team":"Indiana Mad Ants",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Kendall Brown",
+        "Proballers_ID":248795,
+        "Season":"23-24",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kendall Brown",
+        "Proballers_ID":248795,
+        "Season":"24-25",
+        "Team":"Long Island Nets",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Isaiah Mobley",
+        "Proballers_ID":191336,
+        "Season":"19-20",
+        "Team":"USC Trojans",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Isaiah Mobley",
+        "Proballers_ID":191336,
+        "Season":"20-21",
+        "Team":"USC Trojans",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Isaiah Mobley",
+        "Proballers_ID":191336,
+        "Season":"21-22",
+        "Team":"USC Trojans",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Isaiah Mobley",
+        "Proballers_ID":191336,
+        "Season":"22-23",
+        "Team":"Cleveland Cavaliers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Isaiah Mobley",
+        "Proballers_ID":191336,
+        "Season":"22-23",
+        "Team":"Cleveland Charge",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Isaiah Mobley",
+        "Proballers_ID":191336,
+        "Season":"23-24",
+        "Team":"Cleveland Cavaliers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Isaiah Mobley",
+        "Proballers_ID":191336,
+        "Season":"23-24",
+        "Team":"Cleveland Charge",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Isaiah Mobley",
+        "Proballers_ID":191336,
+        "Season":"24-25",
+        "Team":"Delaware Blue Coats",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Isaiah Mobley",
+        "Proballers_ID":191336,
+        "Season":"24-25",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Matteo Spagnolo",
+        "Proballers_ID":175861,
+        "Season":"19-20",
+        "Team":"Real Madrid",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Matteo Spagnolo",
+        "Proballers_ID":175861,
+        "Season":"21-22",
+        "Team":"Vanoli Cremona",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Matteo Spagnolo",
+        "Proballers_ID":175861,
+        "Season":"22-23",
+        "Team":"Trentino",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Matteo Spagnolo",
+        "Proballers_ID":175861,
+        "Season":"23-24",
+        "Team":"ALBA Berlin",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Matteo Spagnolo",
+        "Proballers_ID":175861,
+        "Season":"24-25",
+        "Team":"ALBA Berlin",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Tyrese Martin",
+        "Proballers_ID":188852,
+        "Season":"18-19",
+        "Team":"Rhode Island Rams",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Tyrese Martin",
+        "Proballers_ID":188852,
+        "Season":"19-20",
+        "Team":"Rhode Island Rams",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Tyrese Martin",
+        "Proballers_ID":188852,
+        "Season":"20-21",
+        "Team":"Connecticut Huskies",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Tyrese Martin",
+        "Proballers_ID":188852,
+        "Season":"21-22",
+        "Team":"Connecticut Huskies",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Tyrese Martin",
+        "Proballers_ID":188852,
+        "Season":"22-23",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Tyrese Martin",
+        "Proballers_ID":188852,
+        "Season":"22-23",
+        "Team":"College Park Skyhawks",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Tyrese Martin",
+        "Proballers_ID":188852,
+        "Season":"23-24",
+        "Team":"Iowa Wolves",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Tyrese Martin",
+        "Proballers_ID":188852,
+        "Season":"24-25",
+        "Team":"Brooklyn Nets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Tyrese Martin",
+        "Proballers_ID":188852,
+        "Season":"24-25",
+        "Team":"Long Island Nets",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Karlo Matkovi\u0107",
+        "Proballers_ID":175596,
+        "Season":"17-18",
+        "Team":"Cedevita Olimpija U19",
+        "League":"ABA U19"
+    },
+    {
+        "Player_Name":"Karlo Matkovi\u0107",
+        "Proballers_ID":175596,
+        "Season":"18-19",
+        "Team":"Cedevita Zagreb",
+        "League":"CRO-1"
+    },
+    {
+        "Player_Name":"Karlo Matkovi\u0107",
+        "Proballers_ID":175596,
+        "Season":"18-19",
+        "Team":"Cedevita Olimpija U19",
+        "League":"ABA U19"
+    },
+    {
+        "Player_Name":"Karlo Matkovi\u0107",
+        "Proballers_ID":175596,
+        "Season":"19-20",
+        "Team":"OKK Beograd",
+        "League":"SRB-1"
+    },
+    {
+        "Player_Name":"Karlo Matkovi\u0107",
+        "Proballers_ID":175596,
+        "Season":"20-21",
+        "Team":"Mega SoccerBet",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"Karlo Matkovi\u0107",
+        "Proballers_ID":175596,
+        "Season":"21-22",
+        "Team":"Mega Mozzart",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"Karlo Matkovi\u0107",
+        "Proballers_ID":175596,
+        "Season":"22-23",
+        "Team":"Cedevita",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"Karlo Matkovi\u0107",
+        "Proballers_ID":175596,
+        "Season":"23-24",
+        "Team":"Cedevita",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"Karlo Matkovi\u0107",
+        "Proballers_ID":175596,
+        "Season":"23-24",
+        "Team":"Birmingham Squadron",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Karlo Matkovi\u0107",
+        "Proballers_ID":175596,
+        "Season":"24-25",
+        "Team":"New Orleans Pelicans",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Karlo Matkovi\u0107",
+        "Proballers_ID":175596,
+        "Season":"24-25",
+        "Team":"Birmingham Squadron",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"JD Davison",
+        "Proballers_ID":242884,
+        "Season":"21-22",
+        "Team":"Alabama Crimson Tide",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"JD Davison",
+        "Proballers_ID":242884,
+        "Season":"22-23",
+        "Team":"Maine Celtics",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"JD Davison",
+        "Proballers_ID":242884,
+        "Season":"22-23",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"JD Davison",
+        "Proballers_ID":242884,
+        "Season":"23-24",
+        "Team":"Maine Celtics",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"JD Davison",
+        "Proballers_ID":242884,
+        "Season":"23-24",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"JD Davison",
+        "Proballers_ID":242884,
+        "Season":"24-25",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"JD Davison",
+        "Proballers_ID":242884,
+        "Season":"24-25",
+        "Team":"Maine Celtics",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Yannick Nzosa",
+        "Proballers_ID":183826,
+        "Season":"20-21",
+        "Team":"Unicaja Malaga",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Yannick Nzosa",
+        "Proballers_ID":183826,
+        "Season":"21-22",
+        "Team":"Unicaja Malaga",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Yannick Nzosa",
+        "Proballers_ID":183826,
+        "Season":"22-23",
+        "Team":"Coosur Real Betis",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Yannick Nzosa",
+        "Proballers_ID":183826,
+        "Season":"23-24",
+        "Team":"Movistar Estudiantes",
+        "League":"SPA-2"
+    },
+    {
+        "Player_Name":"Yannick Nzosa",
+        "Proballers_ID":183826,
+        "Season":"24-25",
+        "Team":"Fuenlabrada",
+        "League":"SPA-2"
+    },
+    {
+        "Player_Name":"Gui Santos",
+        "Proballers_ID":251556,
+        "Season":"18-19",
+        "Team":"Minas",
+        "League":"BRA-1"
+    },
+    {
+        "Player_Name":"Gui Santos",
+        "Proballers_ID":251556,
+        "Season":"19-20",
+        "Team":"Minas",
+        "League":"BRA-1"
+    },
+    {
+        "Player_Name":"Gui Santos",
+        "Proballers_ID":251556,
+        "Season":"20-21",
+        "Team":"Minas",
+        "League":"BRA-1"
+    },
+    {
+        "Player_Name":"Gui Santos",
+        "Proballers_ID":251556,
+        "Season":"21-22",
+        "Team":"Minas",
+        "League":"BRA-1"
+    },
+    {
+        "Player_Name":"Gui Santos",
+        "Proballers_ID":251556,
+        "Season":"21-22",
+        "Team":"Minas",
+        "League":"BCL Am."
+    },
+    {
+        "Player_Name":"Gui Santos",
+        "Proballers_ID":251556,
+        "Season":"22-23",
+        "Team":"Santa Cruz Warriors",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Gui Santos",
+        "Proballers_ID":251556,
+        "Season":"23-24",
+        "Team":"Santa Cruz Warriors",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Gui Santos",
+        "Proballers_ID":251556,
+        "Season":"23-24",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Gui Santos",
+        "Proballers_ID":251556,
+        "Season":"24-25",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Gui Santos",
+        "Proballers_ID":251556,
+        "Season":"24-25",
+        "Team":"Santa Cruz Warriors",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Luke Travers",
+        "Proballers_ID":174984,
+        "Season":"19-20",
+        "Team":"Perth Wildcats",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Luke Travers",
+        "Proballers_ID":174984,
+        "Season":"20-21",
+        "Team":"Perth Wildcats",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Luke Travers",
+        "Proballers_ID":174984,
+        "Season":"21-22",
+        "Team":"Perth Wildcats",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Luke Travers",
+        "Proballers_ID":174984,
+        "Season":"22-23",
+        "Team":"Perth Wildcats",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Luke Travers",
+        "Proballers_ID":174984,
+        "Season":"23-24",
+        "Team":"Melbourne United",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Luke Travers",
+        "Proballers_ID":174984,
+        "Season":"24-25",
+        "Team":"Cleveland Cavaliers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Luke Travers",
+        "Proballers_ID":174984,
+        "Season":"24-25",
+        "Team":"Cleveland Charge",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Jabari Walker",
+        "Proballers_ID":232843,
+        "Season":"20-21",
+        "Team":"Colorado Buffaloes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jabari Walker",
+        "Proballers_ID":232843,
+        "Season":"21-22",
+        "Team":"Colorado Buffaloes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jabari Walker",
+        "Proballers_ID":232843,
+        "Season":"22-23",
+        "Team":"Portland Trail Blazers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jabari Walker",
+        "Proballers_ID":232843,
+        "Season":"23-24",
+        "Team":"Portland Trail Blazers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jabari Walker",
+        "Proballers_ID":232843,
+        "Season":"24-25",
+        "Team":"Portland Trail Blazers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jabari Walker",
+        "Proballers_ID":232843,
+        "Season":"24-25",
+        "Team":"Rip City Remix",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Hugo Besson",
+        "Proballers_ID":72002,
+        "Season":"16-17",
+        "Team":"Antibes U21",
+        "League":"FRA-U21"
+    },
+    {
+        "Player_Name":"Hugo Besson",
+        "Proballers_ID":72002,
+        "Season":"17-18",
+        "Team":"Chalon U21",
+        "League":"FRA-U21"
+    },
+    {
+        "Player_Name":"Hugo Besson",
+        "Proballers_ID":72002,
+        "Season":"18-19",
+        "Team":"Chalon U21",
+        "League":"FRA-U21"
+    },
+    {
+        "Player_Name":"Hugo Besson",
+        "Proballers_ID":72002,
+        "Season":"18-19",
+        "Team":"Elan Chalon",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Hugo Besson",
+        "Proballers_ID":72002,
+        "Season":"19-20",
+        "Team":"Elan Chalon",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Hugo Besson",
+        "Proballers_ID":72002,
+        "Season":"19-20",
+        "Team":"Chalon U21",
+        "League":"FRA-U21"
+    },
+    {
+        "Player_Name":"Hugo Besson",
+        "Proballers_ID":72002,
+        "Season":"20-21",
+        "Team":"Saint-Quentin",
+        "League":"FRA-2"
+    },
+    {
+        "Player_Name":"Hugo Besson",
+        "Proballers_ID":72002,
+        "Season":"21-22",
+        "Team":"New Zealand Breakers",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Hugo Besson",
+        "Proballers_ID":72002,
+        "Season":"22-23",
+        "Team":"Boulogne-Levallois Metropolitans 92",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Hugo Besson",
+        "Proballers_ID":72002,
+        "Season":"23-24",
+        "Team":"FMP SoccerBet",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"Hugo Besson",
+        "Proballers_ID":72002,
+        "Season":"23-24",
+        "Team":"Openjobmetis Varese",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Hugo Besson",
+        "Proballers_ID":72002,
+        "Season":"24-25",
+        "Team":"Manisa BBSK",
+        "League":"TUR-1"
+    }
+]

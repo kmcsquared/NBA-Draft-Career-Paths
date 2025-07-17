@@ -1,0 +1,270 @@
+{
+  "ABA": {
+    "ALPHA-3": "HRV",
+    "NAME": "Croatia"
+  },
+  "ABA ": {
+    "ALPHA-3": "HRV",
+    "NAME": "Croatia"
+  },
+  "ABA U19": {
+    "ALPHA-3": "HRV",
+    "NAME": "Croatia"
+  },
+  "ARG": {
+    "ALPHA-3": "ARG",
+    "NAME": "Argentina"
+  },
+  "AUS": {
+    "ALPHA-3": "AUS",
+    "NAME": "Australia"
+  },
+  "AUT": {
+    "ALPHA-3": "AUT",
+    "NAME": "Austria"
+  },
+  "BAL": {
+    "ALPHA-3": "SEN",
+    "NAME": "Senegal"
+  },
+  "BCL Am.": {
+    "ALPHA-3": "BRA",
+    "NAME": "Brazil"
+  },
+  "BEL": {
+    "ALPHA-3": "BEL",
+    "NAME": "Belgium"
+  },
+  "BLR": {
+    "ALPHA-3": "BLR",
+    "NAME": "Belarus"
+  },
+  "BNXT": {
+    "ALPHA-3": "BEL",
+    "NAME": "Belgium"
+  },
+  "BOS": {
+    "ALPHA-3": "BIH",
+    "NAME": "Bosnia and Herzegovina"
+  },
+  "BRA": {
+    "ALPHA-3": "BRA",
+    "NAME": "Brazil"
+  },
+  "BUL": {
+    "ALPHA-3": "BGR",
+    "NAME": "Bulgaria"
+  },
+  "CAN": {
+    "ALPHA-3": "CAN",
+    "NAME": "Canada"
+  },
+  "CBA": {
+    "ALPHA-3": "USA",
+    "NAME": "United States"
+  },
+  "CHN": {
+    "ALPHA-3": "CHN",
+    "NAME": "China"
+  },
+  "CRO": {
+    "ALPHA-3": "HRV",
+    "NAME": "Croatia"
+  },
+  "CYP": {
+    "ALPHA-3": "CYP",
+    "NAME": "Cyprus"
+  },
+  "CZE": {
+    "ALPHA-3": "CZE",
+    "NAME": "Czechia"
+  },
+  "DNK": {
+    "ALPHA-3": "DNK",
+    "NAME": "Denmark"
+  },
+  "DOM": {
+    "ALPHA-3": "DOM",
+    "NAME": "Dominican Republic"
+  },
+  "EE": {
+    "ALPHA-3": "EST",
+    "NAME": "Estonia"
+  },
+  "EST": {
+    "ALPHA-3": "EST",
+    "NAME": "Estonia"
+  },
+  "FIN": {
+    "ALPHA-3": "FIN",
+    "NAME": "Finland"
+  },
+  "FRA": {
+    "ALPHA-3": "FRA",
+    "NAME": "France"
+  },
+  "GEO": {
+    "ALPHA-3": "GEO",
+    "NAME": "Georgia"
+  },
+  "GER": {
+    "ALPHA-3": "DEU",
+    "NAME": "Germany"
+  },
+  "GRE": {
+    "ALPHA-3": "GRC",
+    "NAME": "Greece"
+  },
+  "HUN": {
+    "ALPHA-3": "HUN",
+    "NAME": "Hungary"
+  },
+  "ISL": {
+    "ALPHA-3": "ISL",
+    "NAME": "Iceland"
+  },
+  "ISR": {
+    "ALPHA-3": "ISR",
+    "NAME": "Israel"
+  },
+  "ITA": {
+    "ALPHA-3": "ITA",
+    "NAME": "Italy"
+  },
+  "JAP": {
+    "ALPHA-3": "JPN",
+    "NAME": "Japan"
+  },
+  "LIT": {
+    "ALPHA-3": "LTU",
+    "NAME": "Lithuania"
+  },
+  "LV": {
+    "ALPHA-3": "LVA",
+    "NAME": "Latvia"
+  },
+  "MAC": {
+    "ALPHA-3": "MKD",
+    "NAME": "North Macedonia"
+  },
+  "MEX": {
+    "ALPHA-3": "MEX",
+    "NAME": "Mexico"
+  },
+  "NCAA": {
+    "ALPHA-3": "USA",
+    "NAME": "United States"
+  },
+  "NL": {
+    "ALPHA-3": "NLD",
+    "NAME": "Netherlands"
+  },
+  "NZ": {
+    "ALPHA-3": "NZL",
+    "NAME": "New Zealand"
+  },
+  "OTE": {
+    "ALPHA-3": "USA",
+    "NAME": "United States"
+  },
+  "POL": {
+    "ALPHA-3": "POL",
+    "NAME": "Poland"
+  },
+  "POR": {
+    "ALPHA-3": "PRT",
+    "NAME": "Portugal"
+  },
+  "PR": {
+    "ALPHA-3": "PRI",
+    "NAME": "Puerto Rico"
+  },
+  "QBL": {
+    "ALPHA-3": "QAT",
+    "NAME": "Qatar"
+  },
+  "ROM": {
+    "ALPHA-3": "ROU",
+    "NAME": "Romania"
+  },
+  "RU": {
+    "ALPHA-3": "RUS",
+    "NAME": "Russian Federation"
+  },
+  "RUS": {
+    "ALPHA-3": "RUS",
+    "NAME": "Russian Federation"
+  },
+  "S": {
+    "ALPHA-3": "SRB",
+    "NAME": "Serbia"
+  },
+  "SER1": {
+    "ALPHA-3": "SRB",
+    "NAME": "Serbia"
+  },
+  "SLO": {
+    "ALPHA-3": "SVN",
+    "NAME": "Slovenia"
+  },
+  "SPA": {
+    "ALPHA-3": "ESP",
+    "NAME": "Spain"
+  },
+  "SRB": {
+    "ALPHA-3": "SRB",
+    "NAME": "Serbia"
+  },
+  "SVK": {
+    "ALPHA-3": "SVK",
+    "NAME": "Slovakia"
+  },
+  "SWE": {
+    "ALPHA-3": "SWE",
+    "NAME": "Sweden"
+  },
+  "SWI": {
+    "ALPHA-3": "CHE",
+    "NAME": "Switzerland"
+  },
+  "TUR": {
+    "ALPHA-3": "TUR",
+    "NAME": "Turkey"
+  },
+  "UK": {
+    "ALPHA-3": "GBR",
+    "NAME": "United Kingdom"
+  },
+  "UKR": {
+    "ALPHA-3": "UKR",
+    "NAME": "Ukraine"
+  },
+  "URU": {
+    "ALPHA-3": "URY",
+    "NAME": "Uruguay"
+  },
+  "US": {
+    "ALPHA-3": "USA",
+    "NAME": "United States"
+  },
+  "USA": {
+    "ALPHA-3": "USA",
+    "NAME": "United States"
+  },
+  "VEN": {
+    "ALPHA-3": "VEN",
+    "NAME": "Venezuela, Bolivarian Republic of"
+  },
+  "VTB": {
+    "ALPHA-3": "RUS",
+    "NAME": "Russian Federation"
+  },
+  "VTB L.": {
+    "ALPHA-3": "RUS",
+    "NAME": "Russian Federation"
+  },
+  "VTB PO": {
+    "ALPHA-3": "RUS",
+    "NAME": "Russian Federation"
+  }
+}

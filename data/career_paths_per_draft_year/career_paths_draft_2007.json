@@ -1,0 +1,7135 @@
+[
+    {
+        "Player_Name":"Greg Oden",
+        "Proballers_ID":46472,
+        "Season":"06-07",
+        "Team":"Ohio State Buckeyes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Greg Oden",
+        "Proballers_ID":46472,
+        "Season":"08-09",
+        "Team":"Portland Trail Blazers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Greg Oden",
+        "Proballers_ID":46472,
+        "Season":"09-10",
+        "Team":"Portland Trail Blazers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Greg Oden",
+        "Proballers_ID":46472,
+        "Season":"13-14",
+        "Team":"Miami Heat",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Greg Oden",
+        "Proballers_ID":46472,
+        "Season":"15-16",
+        "Team":"Jiangsu Dragons",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"06-07",
+        "Team":"Texas Longhorns",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"07-08",
+        "Team":"Seattle SuperSonics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"08-09",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"09-10",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"10-11",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"11-12",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"12-13",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"13-14",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"14-15",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"15-16",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"16-17",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"17-18",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"18-19",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"20-21",
+        "Team":"Brooklyn Nets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"21-22",
+        "Team":"Brooklyn Nets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"22-23",
+        "Team":"Brooklyn Nets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"22-23",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"23-24",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kevin Durant",
+        "Proballers_ID":46474,
+        "Season":"24-25",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"04-05",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"05-06",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"06-07",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"07-08",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"08-09",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"09-10",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"10-11",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"11-12",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"12-13",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"13-14",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"14-15",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"15-16",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"16-17",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"17-18",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"18-19",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"19-20",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"20-21",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"21-22",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"22-23",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"23-24",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Horford",
+        "Proballers_ID":36459,
+        "Season":"24-25",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"06-07",
+        "Team":"Ohio State Buckeyes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"07-08",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"08-09",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"09-10",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"10-11",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"11-12",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"12-13",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"13-14",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"14-15",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"15-16",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"16-17",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"17-18",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"18-19",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"19-20",
+        "Team":"Utah Jazz",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"20-21",
+        "Team":"Utah Jazz",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"21-22",
+        "Team":"Utah Jazz",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"22-23",
+        "Team":"Utah Jazz",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"22-23",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"23-24",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Mike Conley",
+        "Proballers_ID":46468,
+        "Season":"24-25",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"04-05",
+        "Team":"Georgetown Hoyas",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"05-06",
+        "Team":"Georgetown Hoyas",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"06-07",
+        "Team":"Georgetown Hoyas",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"07-08",
+        "Team":"Seattle SuperSonics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"08-09",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"09-10",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"10-11",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"10-11",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"12-13",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"13-14",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"14-15",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"14-15",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"15-16",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"15-16",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"16-17",
+        "Team":"Orlando Magic",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"17-18",
+        "Team":"Cleveland Cavaliers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"18-19",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"19-20",
+        "Team":"Utah Jazz",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"19-20",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"20-21",
+        "Team":"Brooklyn Nets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"21-22",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"22-23",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"23-24",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jeff Green",
+        "Proballers_ID":34146,
+        "Season":"24-25",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"07-08",
+        "Team":"Milwaukee Bucks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"08-09",
+        "Team":"New Jersey Nets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"09-10",
+        "Team":"New Jersey Nets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"10-11",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"11-12",
+        "Team":"Guangdong Tigers",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"11-12",
+        "Team":"Texas Legends",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"11-12",
+        "Team":"Dallas Mavericks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"12-13",
+        "Team":"Guangdong Tigers",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"13-14",
+        "Team":"Guangdong Tigers",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"14-15",
+        "Team":"Guangdong Tigers",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"15-16",
+        "Team":"Guangdong Tigers",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"16-17",
+        "Team":"Guangdong Tigers",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"17-18",
+        "Team":"Guangdong Tigers",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"18-19",
+        "Team":"Guangdong Tigers",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"19-20",
+        "Team":"Guangdong Tigers",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"21-22",
+        "Team":"Guangdong Tigers",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Yi Jianlian",
+        "Proballers_ID":43472,
+        "Season":"22-23",
+        "Team":"Guangdong Tigers",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"04-05",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"05-06",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"06-07",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"07-08",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"08-09",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"09-10",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"10-11",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"10-11",
+        "Team":"Dallas Mavericks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"11-12",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"12-13",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"13-14",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"14-15",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"14-15",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"15-16",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"16-17",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"16-17",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"17-18",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"17-18",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"18-19",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"18-19",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Corey Brewer",
+        "Proballers_ID":36447,
+        "Season":"19-20",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Brandan Wright",
+        "Proballers_ID":46465,
+        "Season":"06-07",
+        "Team":"North Carolina Tar Heels",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Brandan Wright",
+        "Proballers_ID":46465,
+        "Season":"07-08",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Brandan Wright",
+        "Proballers_ID":46465,
+        "Season":"08-09",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Brandan Wright",
+        "Proballers_ID":46465,
+        "Season":"10-11",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Brandan Wright",
+        "Proballers_ID":46465,
+        "Season":"10-11",
+        "Team":"New Jersey Nets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Brandan Wright",
+        "Proballers_ID":46465,
+        "Season":"11-12",
+        "Team":"Dallas Mavericks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Brandan Wright",
+        "Proballers_ID":46465,
+        "Season":"12-13",
+        "Team":"Dallas Mavericks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Brandan Wright",
+        "Proballers_ID":46465,
+        "Season":"13-14",
+        "Team":"Dallas Mavericks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Brandan Wright",
+        "Proballers_ID":46465,
+        "Season":"14-15",
+        "Team":"Dallas Mavericks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Brandan Wright",
+        "Proballers_ID":46465,
+        "Season":"14-15",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Brandan Wright",
+        "Proballers_ID":46465,
+        "Season":"14-15",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Brandan Wright",
+        "Proballers_ID":46465,
+        "Season":"15-16",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Brandan Wright",
+        "Proballers_ID":46465,
+        "Season":"16-17",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Brandan Wright",
+        "Proballers_ID":46465,
+        "Season":"17-18",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Brandan Wright",
+        "Proballers_ID":46465,
+        "Season":"17-18",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"04-05",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"05-06",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"06-07",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"07-08",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"08-09",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"09-10",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"10-11",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"11-12",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"12-13",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"13-14",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"14-15",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"15-16",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"16-17",
+        "Team":"New York Knicks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"17-18",
+        "Team":"New York Knicks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"17-18",
+        "Team":"Westchester Knicks",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"18-19",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Joakim Noah",
+        "Proballers_ID":36452,
+        "Season":"19-20",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Spencer Hawes",
+        "Proballers_ID":46473,
+        "Season":"06-07",
+        "Team":"Washington Huskies",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Spencer Hawes",
+        "Proballers_ID":46473,
+        "Season":"07-08",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Spencer Hawes",
+        "Proballers_ID":46473,
+        "Season":"08-09",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Spencer Hawes",
+        "Proballers_ID":46473,
+        "Season":"09-10",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Spencer Hawes",
+        "Proballers_ID":46473,
+        "Season":"10-11",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Spencer Hawes",
+        "Proballers_ID":46473,
+        "Season":"11-12",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Spencer Hawes",
+        "Proballers_ID":46473,
+        "Season":"12-13",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Spencer Hawes",
+        "Proballers_ID":46473,
+        "Season":"13-14",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Spencer Hawes",
+        "Proballers_ID":46473,
+        "Season":"13-14",
+        "Team":"Cleveland Cavaliers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Spencer Hawes",
+        "Proballers_ID":46473,
+        "Season":"14-15",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Spencer Hawes",
+        "Proballers_ID":46473,
+        "Season":"15-16",
+        "Team":"Charlotte Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Spencer Hawes",
+        "Proballers_ID":46473,
+        "Season":"16-17",
+        "Team":"Charlotte Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Spencer Hawes",
+        "Proballers_ID":46473,
+        "Season":"16-17",
+        "Team":"Milwaukee Bucks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Spencer Hawes",
+        "Proballers_ID":46473,
+        "Season":"18-19",
+        "Team":"South Bay Lakers",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Acie Law",
+        "Proballers_ID":33820,
+        "Season":"03-04",
+        "Team":"Texas A&M Aggies",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Acie Law",
+        "Proballers_ID":33820,
+        "Season":"04-05",
+        "Team":"Texas A&M Aggies",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Acie Law",
+        "Proballers_ID":33820,
+        "Season":"05-06",
+        "Team":"Texas A&M Aggies",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Acie Law",
+        "Proballers_ID":33820,
+        "Season":"06-07",
+        "Team":"Texas A&M Aggies",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Acie Law",
+        "Proballers_ID":33820,
+        "Season":"07-08",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Acie Law",
+        "Proballers_ID":33820,
+        "Season":"08-09",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Acie Law",
+        "Proballers_ID":33820,
+        "Season":"09-10",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Acie Law",
+        "Proballers_ID":33820,
+        "Season":"09-10",
+        "Team":"Charlotte Bobcats",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Acie Law",
+        "Proballers_ID":33820,
+        "Season":"09-10",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Acie Law",
+        "Proballers_ID":33820,
+        "Season":"10-11",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Acie Law",
+        "Proballers_ID":33820,
+        "Season":"10-11",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Acie Law",
+        "Proballers_ID":33820,
+        "Season":"11-12",
+        "Team":"Partizan",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"Acie Law",
+        "Proballers_ID":33820,
+        "Season":"11-12",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Acie Law",
+        "Proballers_ID":33820,
+        "Season":"12-13",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Acie Law",
+        "Proballers_ID":33820,
+        "Season":"13-14",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"06-07",
+        "Team":"Georgia Tech Yellow Jackets",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"07-08",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"08-09",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"09-10",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"10-11",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"11-12",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"12-13",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"13-14",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"14-15",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"14-15",
+        "Team":"Brooklyn Nets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"15-16",
+        "Team":"Brooklyn Nets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"16-17",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"17-18",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"18-19",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"19-20",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"20-21",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"21-22",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"21-22",
+        "Team":"Toronto Raptors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"22-23",
+        "Team":"Toronto Raptors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"23-24",
+        "Team":"Toronto Raptors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Thaddeus Young",
+        "Proballers_ID":46471,
+        "Season":"23-24",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"05-06",
+        "Team":"Kansas Jayhawks",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"06-07",
+        "Team":"Kansas Jayhawks",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"07-08",
+        "Team":"New Orleans Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"08-09",
+        "Team":"New Orleans Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"09-10",
+        "Team":"New Orleans Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"10-11",
+        "Team":"Toronto Raptors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"11-12",
+        "Team":"Austin Spurs",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"12-13",
+        "Team":"M. Rishon Lezion",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"13-14",
+        "Team":"Krasnye Krylia",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"14-15",
+        "Team":"Panathinaikos Athens",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"14-15",
+        "Team":"Bnei Herzeliya",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"14-15",
+        "Team":"Cangrejeros de Santurce",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"15-16",
+        "Team":"Trentino",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"16-17",
+        "Team":"Trabzonspor",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"17-18",
+        "Team":"Reggio Emilia",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"18-19",
+        "Team":"Levallois",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Julian Wright",
+        "Proballers_ID":33731,
+        "Season":"22-23",
+        "Team":"Plateros de Fresnillo",
+        "League":"MEX-1"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"03-04",
+        "Team":"Florida State Seminoles",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"04-05",
+        "Team":"Florida State Seminoles",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"05-06",
+        "Team":"Florida State Seminoles",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"06-07",
+        "Team":"Florida State Seminoles",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"07-08",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"08-09",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"09-10",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"09-10",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"10-11",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"10-11",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"11-12",
+        "Team":"Brujos de Guayama",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"12-13",
+        "Team":"Zhejiang Lions",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"13-14",
+        "Team":"Brujos de Guayama",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"16-17",
+        "Team":"Brujos de Guayama",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"17-18",
+        "Team":"Salta",
+        "League":"ARG-1"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"17-18",
+        "Team":"Shimane Susanoo Magic",
+        "League":"JAP-1"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"21-22",
+        "Team":"Penarol Mar de Plata",
+        "League":"ARG-1"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"22-23",
+        "Team":"Penarol Mar de Plata",
+        "League":"ARG-1"
+    },
+    {
+        "Player_Name":"Al Thornton",
+        "Proballers_ID":33151,
+        "Season":"24-25",
+        "Team":"Penarol Mar de Plata",
+        "League":"ARG-1"
+    },
+    {
+        "Player_Name":"Rodney Stuckey",
+        "Proballers_ID":33854,
+        "Season":"05-06",
+        "Team":"Eastern Washington Eagles",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Rodney Stuckey",
+        "Proballers_ID":33854,
+        "Season":"06-07",
+        "Team":"Eastern Washington Eagles",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Rodney Stuckey",
+        "Proballers_ID":33854,
+        "Season":"07-08",
+        "Team":"Detroit Pistons",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Rodney Stuckey",
+        "Proballers_ID":33854,
+        "Season":"08-09",
+        "Team":"Detroit Pistons",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Rodney Stuckey",
+        "Proballers_ID":33854,
+        "Season":"09-10",
+        "Team":"Detroit Pistons",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Rodney Stuckey",
+        "Proballers_ID":33854,
+        "Season":"10-11",
+        "Team":"Detroit Pistons",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Rodney Stuckey",
+        "Proballers_ID":33854,
+        "Season":"11-12",
+        "Team":"Detroit Pistons",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Rodney Stuckey",
+        "Proballers_ID":33854,
+        "Season":"12-13",
+        "Team":"Detroit Pistons",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Rodney Stuckey",
+        "Proballers_ID":33854,
+        "Season":"13-14",
+        "Team":"Detroit Pistons",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Rodney Stuckey",
+        "Proballers_ID":33854,
+        "Season":"14-15",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Rodney Stuckey",
+        "Proballers_ID":33854,
+        "Season":"15-16",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Rodney Stuckey",
+        "Proballers_ID":33854,
+        "Season":"16-17",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nick Young",
+        "Proballers_ID":37111,
+        "Season":"04-05",
+        "Team":"USC Trojans",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Nick Young",
+        "Proballers_ID":37111,
+        "Season":"05-06",
+        "Team":"USC Trojans",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Nick Young",
+        "Proballers_ID":37111,
+        "Season":"06-07",
+        "Team":"USC Trojans",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Nick Young",
+        "Proballers_ID":37111,
+        "Season":"07-08",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nick Young",
+        "Proballers_ID":37111,
+        "Season":"08-09",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nick Young",
+        "Proballers_ID":37111,
+        "Season":"09-10",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nick Young",
+        "Proballers_ID":37111,
+        "Season":"10-11",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nick Young",
+        "Proballers_ID":37111,
+        "Season":"11-12",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nick Young",
+        "Proballers_ID":37111,
+        "Season":"11-12",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nick Young",
+        "Proballers_ID":37111,
+        "Season":"12-13",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nick Young",
+        "Proballers_ID":37111,
+        "Season":"13-14",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nick Young",
+        "Proballers_ID":37111,
+        "Season":"14-15",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nick Young",
+        "Proballers_ID":37111,
+        "Season":"15-16",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nick Young",
+        "Proballers_ID":37111,
+        "Season":"16-17",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nick Young",
+        "Proballers_ID":37111,
+        "Season":"17-18",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nick Young",
+        "Proballers_ID":37111,
+        "Season":"18-19",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"04-05",
+        "Team":"Boston College Eagles",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"05-06",
+        "Team":"Boston College Eagles",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"06-07",
+        "Team":"Boston College Eagles",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"07-08",
+        "Team":"New Jersey Nets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"08-09",
+        "Team":"New Jersey Nets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"09-10",
+        "Team":"New Jersey Nets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"09-10",
+        "Team":"Fujian Xunxing",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"09-10",
+        "Team":"Mets Guaynabo",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"10-11",
+        "Team":"Texas Legends",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"10-11",
+        "Team":"Indios de Mayaguez",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"11-12",
+        "Team":"Maccabi Haifa",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"11-12",
+        "Team":"Texas Legends",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"11-12",
+        "Team":"Dallas Mavericks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"11-12",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"12-13",
+        "Team":"Texas Legends",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"13-14",
+        "Team":"Torku Konyaspor",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"14-15",
+        "Team":"Torku Konyaspor",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"15-16",
+        "Team":"Torku Konyaspor",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Sean Williams",
+        "Proballers_ID":33117,
+        "Season":"17-18",
+        "Team":"Gaziantep",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"01-02",
+        "Team":"Kinder Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"02-03",
+        "Team":"Virtus Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"03-04",
+        "Team":"Teamsystem Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"04-05",
+        "Team":"Teamsystem Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"05-06",
+        "Team":"Teamsystem Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"06-07",
+        "Team":"Teamsystem Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"07-08",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"08-09",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"09-10",
+        "Team":"Toronto Raptors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"10-11",
+        "Team":"New Orleans Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"11-12",
+        "Team":"New Orleans Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"12-13",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"13-14",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"14-15",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"15-16",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"16-17",
+        "Team":"Charlotte Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"17-18",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"17-18",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"18-19",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"19-20",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"20-21",
+        "Team":"Segafredo Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"21-22",
+        "Team":"Segafredo Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"22-23",
+        "Team":"Segafredo Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"23-24",
+        "Team":"Segafredo Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Marco Belinelli",
+        "Proballers_ID":17503,
+        "Season":"24-25",
+        "Team":"Segafredo Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Javaris Crittenton",
+        "Proballers_ID":46467,
+        "Season":"06-07",
+        "Team":"Georgia Tech Yellow Jackets",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Javaris Crittenton",
+        "Proballers_ID":46467,
+        "Season":"07-08",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Javaris Crittenton",
+        "Proballers_ID":46467,
+        "Season":"07-08",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Javaris Crittenton",
+        "Proballers_ID":46467,
+        "Season":"08-09",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Javaris Crittenton",
+        "Proballers_ID":46467,
+        "Season":"08-09",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Javaris Crittenton",
+        "Proballers_ID":46467,
+        "Season":"10-11",
+        "Team":"Zhejiang Lions",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Javaris Crittenton",
+        "Proballers_ID":46467,
+        "Season":"10-11",
+        "Team":"Santa Cruz Warriors",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Jason Smith",
+        "Proballers_ID":36048,
+        "Season":"04-05",
+        "Team":"Colorado State Rams",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jason Smith",
+        "Proballers_ID":36048,
+        "Season":"05-06",
+        "Team":"Colorado State Rams",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jason Smith",
+        "Proballers_ID":36048,
+        "Season":"06-07",
+        "Team":"Colorado State Rams",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jason Smith",
+        "Proballers_ID":36048,
+        "Season":"07-08",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jason Smith",
+        "Proballers_ID":36048,
+        "Season":"09-10",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jason Smith",
+        "Proballers_ID":36048,
+        "Season":"10-11",
+        "Team":"New Orleans Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jason Smith",
+        "Proballers_ID":36048,
+        "Season":"11-12",
+        "Team":"New Orleans Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jason Smith",
+        "Proballers_ID":36048,
+        "Season":"12-13",
+        "Team":"New Orleans Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jason Smith",
+        "Proballers_ID":36048,
+        "Season":"13-14",
+        "Team":"New Orleans Pelicans",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jason Smith",
+        "Proballers_ID":36048,
+        "Season":"14-15",
+        "Team":"New York Knicks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jason Smith",
+        "Proballers_ID":36048,
+        "Season":"15-16",
+        "Team":"Orlando Magic",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jason Smith",
+        "Proballers_ID":36048,
+        "Season":"16-17",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jason Smith",
+        "Proballers_ID":36048,
+        "Season":"17-18",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jason Smith",
+        "Proballers_ID":36048,
+        "Season":"18-19",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jason Smith",
+        "Proballers_ID":36048,
+        "Season":"18-19",
+        "Team":"Milwaukee Bucks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jason Smith",
+        "Proballers_ID":36048,
+        "Season":"18-19",
+        "Team":"New Orleans Pelicans",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Daequan Cook",
+        "Proballers_ID":46469,
+        "Season":"06-07",
+        "Team":"Ohio State Buckeyes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Daequan Cook",
+        "Proballers_ID":46469,
+        "Season":"07-08",
+        "Team":"Miami Heat",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Daequan Cook",
+        "Proballers_ID":46469,
+        "Season":"07-08",
+        "Team":"Iowa Wolves",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Daequan Cook",
+        "Proballers_ID":46469,
+        "Season":"08-09",
+        "Team":"Miami Heat",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Daequan Cook",
+        "Proballers_ID":46469,
+        "Season":"09-10",
+        "Team":"Miami Heat",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Daequan Cook",
+        "Proballers_ID":46469,
+        "Season":"10-11",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Daequan Cook",
+        "Proballers_ID":46469,
+        "Season":"11-12",
+        "Team":"Oklahoma City Thunder",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Daequan Cook",
+        "Proballers_ID":46469,
+        "Season":"12-13",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Daequan Cook",
+        "Proballers_ID":46469,
+        "Season":"12-13",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Daequan Cook",
+        "Proballers_ID":46469,
+        "Season":"13-14",
+        "Team":"Budivelnyk Kyiv",
+        "League":"UKR-1"
+    },
+    {
+        "Player_Name":"Daequan Cook",
+        "Proballers_ID":46469,
+        "Season":"13-14",
+        "Team":"Tigers T\u00fcbingen",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Daequan Cook",
+        "Proballers_ID":46469,
+        "Season":"14-15",
+        "Team":"Rouen",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Daequan Cook",
+        "Proballers_ID":46469,
+        "Season":"15-16",
+        "Team":"SL Benfica",
+        "League":"POR-1"
+    },
+    {
+        "Player_Name":"Daequan Cook",
+        "Proballers_ID":46469,
+        "Season":"17-18",
+        "Team":"Ness Ziona",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Daequan Cook",
+        "Proballers_ID":46469,
+        "Season":"18-19",
+        "Team":"Ness Ziona",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Daequan Cook",
+        "Proballers_ID":46469,
+        "Season":"19-20",
+        "Team":"Ness Ziona",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"03-04",
+        "Team":"Boston College Eagles",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"04-05",
+        "Team":"Boston College Eagles",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"05-06",
+        "Team":"Boston College Eagles",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"06-07",
+        "Team":"Boston College Eagles",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"07-08",
+        "Team":"Charlotte Bobcats",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"08-09",
+        "Team":"Charlotte Bobcats",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"08-09",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"09-10",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"10-11",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"11-12",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"12-13",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"13-14",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"14-15",
+        "Team":"Milwaukee Bucks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"15-16",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"16-17",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"17-18",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"18-19",
+        "Team":"Brooklyn Nets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"19-20",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jared Dudley",
+        "Proballers_ID":33107,
+        "Season":"20-21",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"05-06",
+        "Team":"DePaul Blue Demons",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"06-07",
+        "Team":"DePaul Blue Demons",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"07-08",
+        "Team":"New York Knicks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"08-09",
+        "Team":"New York Knicks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"09-10",
+        "Team":"New York Knicks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"10-11",
+        "Team":"New York Knicks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"10-11",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"11-12",
+        "Team":"Zhejiang Lions",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"11-12",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"12-13",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"13-14",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"14-15",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"16-17",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"17-18",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"18-19",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"18-19",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"19-20",
+        "Team":"Brooklyn Nets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Wilson Chandler",
+        "Proballers_ID":34134,
+        "Season":"20-21",
+        "Team":"Zhejiang Lions",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"01-02",
+        "Team":"Joventut",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"02-03",
+        "Team":"Joventut",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"03-04",
+        "Team":"Joventut",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"04-05",
+        "Team":"Joventut",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"05-06",
+        "Team":"Joventut",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"06-07",
+        "Team":"Joventut",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"07-08",
+        "Team":"Joventut",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"08-09",
+        "Team":"Portland Trail Blazers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"09-10",
+        "Team":"Portland Trail Blazers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"10-11",
+        "Team":"Portland Trail Blazers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"11-12",
+        "Team":"Real Madrid",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"11-12",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"12-13",
+        "Team":"Real Madrid",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"13-14",
+        "Team":"Real Madrid",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"14-15",
+        "Team":"Real Madrid",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"15-16",
+        "Team":"Real Madrid",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"16-17",
+        "Team":"Real Madrid",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"17-18",
+        "Team":"Real Madrid",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"18-19",
+        "Team":"Real Madrid",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"19-20",
+        "Team":"Real Madrid",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"20-21",
+        "Team":"Real Madrid",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"21-22",
+        "Team":"Real Madrid",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"22-23",
+        "Team":"Real Madrid",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Rudy Fernandez",
+        "Proballers_ID":7685,
+        "Season":"23-24",
+        "Team":"Real Madrid",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"03-04",
+        "Team":"Rice Owls",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"04-05",
+        "Team":"Rice Owls",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"05-06",
+        "Team":"Rice Owls",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"06-07",
+        "Team":"Rice Owls",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"07-08",
+        "Team":"Utah Jazz",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"07-08",
+        "Team":"Utah Flash",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"08-09",
+        "Team":"Utah Jazz",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"09-10",
+        "Team":"Springfield Armor",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"09-10",
+        "Team":"Maine Red Claws",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"09-10",
+        "Team":"Real Madrid",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"10-11",
+        "Team":"Pesaro",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"11-12",
+        "Team":"Cherkasy Monkeys",
+        "League":"UKR-1"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"11-12",
+        "Team":"Maine Red Claws",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"11-12",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"12-13",
+        "Team":"Crvena Zvezda Belgrade",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"12-13",
+        "Team":"Iowa Wolves",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Morris Almond",
+        "Proballers_ID":34816,
+        "Season":"12-13",
+        "Team":"Los Angeles D-Fenders",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"03-04",
+        "Team":"Oregon Ducks",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"04-05",
+        "Team":"Oregon Ducks",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"05-06",
+        "Team":"Oregon Ducks",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"06-07",
+        "Team":"Oregon Ducks",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"07-08",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"07-08",
+        "Team":"Rio Grande Valley Vipers",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"08-09",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"09-10",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"10-11",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"10-11",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"11-12",
+        "Team":"Guangdong Tigers",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"12-13",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"12-13",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"13-14",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"13-14",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"14-15",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"15-16",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"16-17",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"17-18",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Brooks",
+        "Proballers_ID":37050,
+        "Season":"19-20",
+        "Team":"Illawarra Hawks",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Arron Afflalo",
+        "Proballers_ID":37098,
+        "Season":"04-05",
+        "Team":"UCLA Bruins",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Arron Afflalo",
+        "Proballers_ID":37098,
+        "Season":"05-06",
+        "Team":"UCLA Bruins",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Arron Afflalo",
+        "Proballers_ID":37098,
+        "Season":"06-07",
+        "Team":"UCLA Bruins",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Arron Afflalo",
+        "Proballers_ID":37098,
+        "Season":"07-08",
+        "Team":"Detroit Pistons",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Arron Afflalo",
+        "Proballers_ID":37098,
+        "Season":"08-09",
+        "Team":"Detroit Pistons",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Arron Afflalo",
+        "Proballers_ID":37098,
+        "Season":"09-10",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Arron Afflalo",
+        "Proballers_ID":37098,
+        "Season":"10-11",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Arron Afflalo",
+        "Proballers_ID":37098,
+        "Season":"11-12",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Arron Afflalo",
+        "Proballers_ID":37098,
+        "Season":"12-13",
+        "Team":"Orlando Magic",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Arron Afflalo",
+        "Proballers_ID":37098,
+        "Season":"13-14",
+        "Team":"Orlando Magic",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Arron Afflalo",
+        "Proballers_ID":37098,
+        "Season":"14-15",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Arron Afflalo",
+        "Proballers_ID":37098,
+        "Season":"14-15",
+        "Team":"Portland Trail Blazers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Arron Afflalo",
+        "Proballers_ID":37098,
+        "Season":"15-16",
+        "Team":"New York Knicks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Arron Afflalo",
+        "Proballers_ID":37098,
+        "Season":"16-17",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Arron Afflalo",
+        "Proballers_ID":37098,
+        "Season":"17-18",
+        "Team":"Orlando Magic",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Tiago Splitter",
+        "Proballers_ID":18655,
+        "Season":"03-04",
+        "Team":"Vitoria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Tiago Splitter",
+        "Proballers_ID":18655,
+        "Season":"04-05",
+        "Team":"Vitoria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Tiago Splitter",
+        "Proballers_ID":18655,
+        "Season":"05-06",
+        "Team":"Vitoria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Tiago Splitter",
+        "Proballers_ID":18655,
+        "Season":"06-07",
+        "Team":"Vitoria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Tiago Splitter",
+        "Proballers_ID":18655,
+        "Season":"07-08",
+        "Team":"Vitoria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Tiago Splitter",
+        "Proballers_ID":18655,
+        "Season":"08-09",
+        "Team":"Vitoria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Tiago Splitter",
+        "Proballers_ID":18655,
+        "Season":"09-10",
+        "Team":"Vitoria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Tiago Splitter",
+        "Proballers_ID":18655,
+        "Season":"10-11",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Tiago Splitter",
+        "Proballers_ID":18655,
+        "Season":"11-12",
+        "Team":"Valencia Basket",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Tiago Splitter",
+        "Proballers_ID":18655,
+        "Season":"11-12",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Tiago Splitter",
+        "Proballers_ID":18655,
+        "Season":"12-13",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Tiago Splitter",
+        "Proballers_ID":18655,
+        "Season":"13-14",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Tiago Splitter",
+        "Proballers_ID":18655,
+        "Season":"14-15",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Tiago Splitter",
+        "Proballers_ID":18655,
+        "Season":"15-16",
+        "Team":"Atlanta Hawks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Tiago Splitter",
+        "Proballers_ID":18655,
+        "Season":"16-17",
+        "Team":"Delaware Blue Coats",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Tiago Splitter",
+        "Proballers_ID":18655,
+        "Season":"16-17",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"02-03",
+        "Team":"Wisconsin Badgers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"03-04",
+        "Team":"Wisconsin Badgers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"04-05",
+        "Team":"Wisconsin Badgers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"05-06",
+        "Team":"Wisconsin Badgers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"06-07",
+        "Team":"Wisconsin Badgers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"07-08",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"07-08",
+        "Team":"New Mexico Thunderbirds",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"08-09",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"09-10",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"09-10",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"09-10",
+        "Team":"Isabela",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"10-11",
+        "Team":"Lokomotiv Kuban",
+        "League":"RUS-1"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"11-12",
+        "Team":"Gran Canaria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"11-12",
+        "Team":"Texas Legends",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"12-13",
+        "Team":"Inter Bratislava",
+        "League":"SVK-1"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"13-14",
+        "Team":"Lukoil Academic",
+        "League":"BUL-1"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"14-15",
+        "Team":"Boulogne-sur-Mer",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"15-16",
+        "Team":"SLUC Nancy",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"15-16",
+        "Team":"Maccabi Kiryat Gat",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"16-17",
+        "Team":"Hapoel Tel Aviv",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Alando Tucker",
+        "Proballers_ID":34449,
+        "Season":"17-18",
+        "Team":"Hapoel Eilat",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"04-05",
+        "Team":"Espoon Honka",
+        "League":"FIN-1"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"05-06",
+        "Team":"Espoon Honka",
+        "League":"FIN-1"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"06-07",
+        "Team":"Espoon Honka",
+        "League":"FIN-1"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"07-08",
+        "Team":"Espoon Honka",
+        "League":"FIN-1"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"08-09",
+        "Team":"La Fortezza Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"09-10",
+        "Team":"Canadian Solar Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"10-11",
+        "Team":"Canadian Solar Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"11-12",
+        "Team":"SAIE3 Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"12-13",
+        "Team":"Khimki Moscow Region",
+        "League":"RUS-1"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"12-13",
+        "Team":"Khimki Moscow Region",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"13-14",
+        "Team":"Khimki Moscow Region",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"14-15",
+        "Team":"Khimki Moscow Region",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"15-16",
+        "Team":"Khimki Moscow Region",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"16-17",
+        "Team":"FC Barcelona",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"17-18",
+        "Team":"FC Barcelona",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"18-19",
+        "Team":"FC Bayern M\u00fcnchen",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"19-20",
+        "Team":"FC Bayern M\u00fcnchen",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"20-21",
+        "Team":"Reggio Emilia",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Petteri Koponen",
+        "Proballers_ID":23392,
+        "Season":"21-22",
+        "Team":"Helsinki Seagulls",
+        "League":"FIN-1"
+    },
+    {
+        "Player_Name":"Carl Landry",
+        "Proballers_ID":34428,
+        "Season":"04-05",
+        "Team":"Purdue Boilermakers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Carl Landry",
+        "Proballers_ID":34428,
+        "Season":"05-06",
+        "Team":"Purdue Boilermakers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Carl Landry",
+        "Proballers_ID":34428,
+        "Season":"06-07",
+        "Team":"Purdue Boilermakers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Carl Landry",
+        "Proballers_ID":34428,
+        "Season":"07-08",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Carl Landry",
+        "Proballers_ID":34428,
+        "Season":"08-09",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Carl Landry",
+        "Proballers_ID":34428,
+        "Season":"09-10",
+        "Team":"Houston Rockets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Carl Landry",
+        "Proballers_ID":34428,
+        "Season":"09-10",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Carl Landry",
+        "Proballers_ID":34428,
+        "Season":"10-11",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Carl Landry",
+        "Proballers_ID":34428,
+        "Season":"10-11",
+        "Team":"New Orleans Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Carl Landry",
+        "Proballers_ID":34428,
+        "Season":"11-12",
+        "Team":"New Orleans Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Carl Landry",
+        "Proballers_ID":34428,
+        "Season":"12-13",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Carl Landry",
+        "Proballers_ID":34428,
+        "Season":"13-14",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Carl Landry",
+        "Proballers_ID":34428,
+        "Season":"14-15",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Carl Landry",
+        "Proballers_ID":34428,
+        "Season":"15-16",
+        "Team":"Philadelphia 76ers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Carl Landry",
+        "Proballers_ID":34428,
+        "Season":"17-18",
+        "Team":"Jilin Tigers",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Gabe Pruitt",
+        "Proballers_ID":37121,
+        "Season":"04-05",
+        "Team":"USC Trojans",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Gabe Pruitt",
+        "Proballers_ID":37121,
+        "Season":"05-06",
+        "Team":"USC Trojans",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Gabe Pruitt",
+        "Proballers_ID":37121,
+        "Season":"06-07",
+        "Team":"USC Trojans",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Gabe Pruitt",
+        "Proballers_ID":37121,
+        "Season":"07-08",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Gabe Pruitt",
+        "Proballers_ID":37121,
+        "Season":"07-08",
+        "Team":"Utah Flash",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Gabe Pruitt",
+        "Proballers_ID":37121,
+        "Season":"08-09",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Gabe Pruitt",
+        "Proballers_ID":37121,
+        "Season":"09-10",
+        "Team":"Los Angeles D-Fenders",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Gabe Pruitt",
+        "Proballers_ID":37121,
+        "Season":"09-10",
+        "Team":"Utah Flash",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Gabe Pruitt",
+        "Proballers_ID":37121,
+        "Season":"10-11",
+        "Team":"Elizur Ashkelon",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Gabe Pruitt",
+        "Proballers_ID":37121,
+        "Season":"11-12",
+        "Team":"Sioux Falls Skyforce",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Gabe Pruitt",
+        "Proballers_ID":37121,
+        "Season":"12-13",
+        "Team":"Sioux Falls Skyforce",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Gabe Pruitt",
+        "Proballers_ID":37121,
+        "Season":"12-13",
+        "Team":"Maine Red Claws",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Gabe Pruitt",
+        "Proballers_ID":37121,
+        "Season":"12-13",
+        "Team":"Rethymno Cretan Kings",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Gabe Pruitt",
+        "Proballers_ID":37121,
+        "Season":"13-14",
+        "Team":"Rethymno Cretan Kings",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Gabe Pruitt",
+        "Proballers_ID":37121,
+        "Season":"14-15",
+        "Team":"Panionios",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Gabe Pruitt",
+        "Proballers_ID":37121,
+        "Season":"17-18",
+        "Team":"C.B. Santos San Luis",
+        "League":"MEX-1"
+    },
+    {
+        "Player_Name":"Marcus Williams",
+        "Proballers_ID":37003,
+        "Season":"07-08",
+        "Team":"Austin Spurs",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Marcus Williams",
+        "Proballers_ID":37003,
+        "Season":"07-08",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marcus Williams",
+        "Proballers_ID":37003,
+        "Season":"07-08",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marcus Williams",
+        "Proballers_ID":37003,
+        "Season":"08-09",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marcus Williams",
+        "Proballers_ID":37003,
+        "Season":"09-10",
+        "Team":"Zhejiang Golden Bulls",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Marcus Williams",
+        "Proballers_ID":37003,
+        "Season":"09-10",
+        "Team":"Austin Spurs",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Marcus Williams",
+        "Proballers_ID":37003,
+        "Season":"10-11",
+        "Team":"Zhejiang Golden Bulls",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Marcus Williams",
+        "Proballers_ID":37003,
+        "Season":"11-12",
+        "Team":"Shanxi Zhongyu",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Marcus Williams",
+        "Proballers_ID":37003,
+        "Season":"12-13",
+        "Team":"Shanxi Zhongyu",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Marcus Williams",
+        "Proballers_ID":37003,
+        "Season":"13-14",
+        "Team":"Shanxi Zhongyu",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Marcus Williams",
+        "Proballers_ID":37003,
+        "Season":"15-16",
+        "Team":"Jilin Tigers",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"03-04",
+        "Team":"Nevada Wolf Pack",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"04-05",
+        "Team":"Nevada Wolf Pack",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"05-06",
+        "Team":"Nevada Wolf Pack",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"06-07",
+        "Team":"Nevada Wolf Pack",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"07-08",
+        "Team":"Dallas Mavericks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"07-08",
+        "Team":"Oklahoma City Blue",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"07-08",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"08-09",
+        "Team":"Filou Oostende",
+        "League":"BEL-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"08-09",
+        "Team":"ASVEL Lyon-Villeurbanne",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"09-10",
+        "Team":"JDA Dijon",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"10-11",
+        "Team":"Stockton Kings",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"11-12",
+        "Team":"Stockton Kings",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"12-13",
+        "Team":"Kawasaki Brave Thunders",
+        "League":"JAP-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"13-14",
+        "Team":"Kawasaki Brave Thunders",
+        "League":"JAP-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"14-15",
+        "Team":"Kawasaki Brave Thunders",
+        "League":"JAP-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"15-16",
+        "Team":"Kawasaki Brave Thunders",
+        "League":"JAP-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"16-17",
+        "Team":"Kawasaki Brave Thunders",
+        "League":"JAP-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"17-18",
+        "Team":"Kawasaki Brave Thunders",
+        "League":"JAP-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"18-19",
+        "Team":"Kawasaki Brave Thunders",
+        "League":"JAP-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"19-20",
+        "Team":"Kawasaki Brave Thunders",
+        "League":"JAP-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"20-21",
+        "Team":"Kawasaki Brave Thunders",
+        "League":"JAP-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"21-22",
+        "Team":"Kawasaki Brave Thunders",
+        "League":"JAP-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"22-23",
+        "Team":"Kawasaki Brave Thunders",
+        "League":"JAP-1"
+    },
+    {
+        "Player_Name":"Nick Fazekas",
+        "Proballers_ID":37545,
+        "Season":"23-24",
+        "Team":"Kawasaki Brave Thunders",
+        "League":"JAP-1"
+    },
+    {
+        "Player_Name":"Glen Davis",
+        "Proballers_ID":36489,
+        "Season":"04-05",
+        "Team":"LSU Tigers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Glen Davis",
+        "Proballers_ID":36489,
+        "Season":"05-06",
+        "Team":"LSU Tigers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Glen Davis",
+        "Proballers_ID":36489,
+        "Season":"06-07",
+        "Team":"LSU Tigers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Glen Davis",
+        "Proballers_ID":36489,
+        "Season":"07-08",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Glen Davis",
+        "Proballers_ID":36489,
+        "Season":"08-09",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Glen Davis",
+        "Proballers_ID":36489,
+        "Season":"09-10",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Glen Davis",
+        "Proballers_ID":36489,
+        "Season":"10-11",
+        "Team":"Boston Celtics",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Glen Davis",
+        "Proballers_ID":36489,
+        "Season":"11-12",
+        "Team":"Orlando Magic",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Glen Davis",
+        "Proballers_ID":36489,
+        "Season":"12-13",
+        "Team":"Orlando Magic",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Glen Davis",
+        "Proballers_ID":36489,
+        "Season":"13-14",
+        "Team":"Orlando Magic",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Glen Davis",
+        "Proballers_ID":36489,
+        "Season":"13-14",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Glen Davis",
+        "Proballers_ID":36489,
+        "Season":"14-15",
+        "Team":"LA Clippers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Glen Davis",
+        "Proballers_ID":36489,
+        "Season":"18-19",
+        "Team":"St. John's Edge",
+        "League":"CAN-1"
+    },
+    {
+        "Player_Name":"Jermareo Davidson",
+        "Proballers_ID":36415,
+        "Season":"03-04",
+        "Team":"Alabama Crimson Tide",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jermareo Davidson",
+        "Proballers_ID":36415,
+        "Season":"04-05",
+        "Team":"Alabama Crimson Tide",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jermareo Davidson",
+        "Proballers_ID":36415,
+        "Season":"05-06",
+        "Team":"Alabama Crimson Tide",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jermareo Davidson",
+        "Proballers_ID":36415,
+        "Season":"06-07",
+        "Team":"Alabama Crimson Tide",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jermareo Davidson",
+        "Proballers_ID":36415,
+        "Season":"07-08",
+        "Team":"Charlotte Bobcats",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jermareo Davidson",
+        "Proballers_ID":36415,
+        "Season":"07-08",
+        "Team":"Sioux Falls Skyforce",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Jermareo Davidson",
+        "Proballers_ID":36415,
+        "Season":"08-09",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Jermareo Davidson",
+        "Proballers_ID":36415,
+        "Season":"09-10",
+        "Team":"Darussafaka",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Jermareo Davidson",
+        "Proballers_ID":36415,
+        "Season":"09-10",
+        "Team":"Grises de Humacao",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Jermareo Davidson",
+        "Proballers_ID":36415,
+        "Season":"10-11",
+        "Team":"Krasnye Krylia",
+        "League":"RUS-1"
+    },
+    {
+        "Player_Name":"Jermareo Davidson",
+        "Proballers_ID":36415,
+        "Season":"10-11",
+        "Team":"Idaho Stampede",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Jermareo Davidson",
+        "Proballers_ID":36415,
+        "Season":"11-12",
+        "Team":"Skyliners Frankfurt",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Jermareo Davidson",
+        "Proballers_ID":36415,
+        "Season":"12-13",
+        "Team":"Antalyaspor",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Jermareo Davidson",
+        "Proballers_ID":36415,
+        "Season":"15-16",
+        "Team":"Trotamundos de Carabobo",
+        "League":"VEN-1"
+    },
+    {
+        "Player_Name":"Josh McRoberts",
+        "Proballers_ID":33131,
+        "Season":"05-06",
+        "Team":"Duke Blue Devils",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Josh McRoberts",
+        "Proballers_ID":33131,
+        "Season":"06-07",
+        "Team":"Duke Blue Devils",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Josh McRoberts",
+        "Proballers_ID":33131,
+        "Season":"07-08",
+        "Team":"Portland Trail Blazers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Josh McRoberts",
+        "Proballers_ID":33131,
+        "Season":"07-08",
+        "Team":"Idaho Stampede",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Josh McRoberts",
+        "Proballers_ID":33131,
+        "Season":"08-09",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Josh McRoberts",
+        "Proballers_ID":33131,
+        "Season":"09-10",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Josh McRoberts",
+        "Proballers_ID":33131,
+        "Season":"10-11",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Josh McRoberts",
+        "Proballers_ID":33131,
+        "Season":"11-12",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Josh McRoberts",
+        "Proballers_ID":33131,
+        "Season":"12-13",
+        "Team":"Orlando Magic",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Josh McRoberts",
+        "Proballers_ID":33131,
+        "Season":"12-13",
+        "Team":"Charlotte Bobcats",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Josh McRoberts",
+        "Proballers_ID":33131,
+        "Season":"13-14",
+        "Team":"Charlotte Bobcats",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Josh McRoberts",
+        "Proballers_ID":33131,
+        "Season":"14-15",
+        "Team":"Miami Heat",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Josh McRoberts",
+        "Proballers_ID":33131,
+        "Season":"15-16",
+        "Team":"Miami Heat",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Josh McRoberts",
+        "Proballers_ID":33131,
+        "Season":"16-17",
+        "Team":"Miami Heat",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Josh McRoberts",
+        "Proballers_ID":33131,
+        "Season":"17-18",
+        "Team":"Dallas Mavericks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"07-08",
+        "Team":"Utah Flash",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"07-08",
+        "Team":"Utah Jazz",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"08-09",
+        "Team":"Utah Jazz",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"09-10",
+        "Team":"Utah Jazz",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"10-11",
+        "Team":"Utah Jazz",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"11-12",
+        "Team":"Indiana Pacers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"12-13",
+        "Team":"Donetsk",
+        "League":"UKR-1"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"12-13",
+        "Team":"Donetsk",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"13-14",
+        "Team":"Delaware Blue Coats",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"13-14",
+        "Team":"Canton Charge",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"14-15",
+        "Team":"Avtodor Saratov",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"15-16",
+        "Team":"Lokomotiv Kuban",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"15-16",
+        "Team":"Acqua Vitasnella Cant\u00f9",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"16-17",
+        "Team":"Sidigas Avellino",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"17-18",
+        "Team":"Sidigas Avellino",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"18-19",
+        "Team":"Dnipro",
+        "League":"UKR-1"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"19-20",
+        "Team":"Dnipro",
+        "League":"UKR-1"
+    },
+    {
+        "Player_Name":"Kyrylo Fesenko",
+        "Proballers_ID":19209,
+        "Season":"20-21",
+        "Team":"Dnipro",
+        "League":"UKR-1"
+    },
+    {
+        "Player_Name":"Stanko Barac",
+        "Proballers_ID":18943,
+        "Season":"04-05",
+        "Team":"HKK Siroki",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"Stanko Barac",
+        "Proballers_ID":18943,
+        "Season":"05-06",
+        "Team":"HKK Siroki",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"Stanko Barac",
+        "Proballers_ID":18943,
+        "Season":"06-07",
+        "Team":"HKK Siroki",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"Stanko Barac",
+        "Proballers_ID":18943,
+        "Season":"07-08",
+        "Team":"Pamesa Valencia",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Stanko Barac",
+        "Proballers_ID":18943,
+        "Season":"08-09",
+        "Team":"Vitoria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Stanko Barac",
+        "Proballers_ID":18943,
+        "Season":"09-10",
+        "Team":"Vitoria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Stanko Barac",
+        "Proballers_ID":18943,
+        "Season":"10-11",
+        "Team":"Vitoria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Stanko Barac",
+        "Proballers_ID":18943,
+        "Season":"11-12",
+        "Team":"Anadolu Efes Istanbul",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Stanko Barac",
+        "Proballers_ID":18943,
+        "Season":"12-13",
+        "Team":"Anadolu Efes Istanbul",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Stanko Barac",
+        "Proballers_ID":18943,
+        "Season":"13-14",
+        "Team":"Anadolu Efes Istanbul",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Stanko Barac",
+        "Proballers_ID":18943,
+        "Season":"14-15",
+        "Team":"Cedevita Zagreb",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"Stanko Barac",
+        "Proballers_ID":18943,
+        "Season":"14-15",
+        "Team":"Cedevita Zagreb",
+        "League":"CRO-1 Up"
+    },
+    {
+        "Player_Name":"Stanko Barac",
+        "Proballers_ID":18943,
+        "Season":"15-16",
+        "Team":"EA7 Milano",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Sun Sun",
+        "Proballers_ID":43470,
+        "Season":"08-09",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Sun Sun",
+        "Proballers_ID":43470,
+        "Season":"13-14",
+        "Team":"Beijing Ducks",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Sun Sun",
+        "Proballers_ID":43470,
+        "Season":"14-15",
+        "Team":"Beijing Ducks",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Sun Sun",
+        "Proballers_ID":43470,
+        "Season":"15-16",
+        "Team":"Beijing Ducks",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Sun Sun",
+        "Proballers_ID":43470,
+        "Season":"16-17",
+        "Team":"Beijing Ducks",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Sun Sun",
+        "Proballers_ID":43470,
+        "Season":"19-20",
+        "Team":"BeiKong Dragons",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Sun Sun",
+        "Proballers_ID":43470,
+        "Season":"20-21",
+        "Team":"BeiKong Dragons",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Chris Richard",
+        "Proballers_ID":36457,
+        "Season":"03-04",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Chris Richard",
+        "Proballers_ID":36457,
+        "Season":"04-05",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Chris Richard",
+        "Proballers_ID":36457,
+        "Season":"05-06",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Chris Richard",
+        "Proballers_ID":36457,
+        "Season":"06-07",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Chris Richard",
+        "Proballers_ID":36457,
+        "Season":"07-08",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Chris Richard",
+        "Proballers_ID":36457,
+        "Season":"07-08",
+        "Team":"Sioux Falls Skyforce",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Chris Richard",
+        "Proballers_ID":36457,
+        "Season":"09-10",
+        "Team":"Oklahoma City Blue",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Chris Richard",
+        "Proballers_ID":36457,
+        "Season":"09-10",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Chris Richard",
+        "Proballers_ID":36457,
+        "Season":"10-11",
+        "Team":"Liaoning Dinosaurs",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"02-03",
+        "Team":"Virginia Cavaliers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"03-04",
+        "Team":"Virginia Cavaliers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"05-06",
+        "Team":"Vanderbilt Commodores",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"06-07",
+        "Team":"Vanderbilt Commodores",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"07-08",
+        "Team":"Koln 99ers",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"07-08",
+        "Team":"Chorale Roanne",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"09-10",
+        "Team":"ALBA Berlin",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"10-11",
+        "Team":"Panellinios BC",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"10-11",
+        "Team":"Bakersfield Jam",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"11-12",
+        "Team":"Cholet",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"11-12",
+        "Team":"Bakersfield Jam",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"11-12",
+        "Team":"San Antonio Spurs",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"12-13",
+        "Team":"ALBA Berlin",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"12-13",
+        "Team":"Caciques de Humacao",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"13-14",
+        "Team":"Bakersfield Jam",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"13-14",
+        "Team":"Union Mons-Hainaut",
+        "League":"BEL-1"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"14-15",
+        "Team":"CB Sevilla",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"15-16",
+        "Team":"M. Rishon Lezion",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"15-16",
+        "Team":"Santeros de Aguada",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"16-17",
+        "Team":"Vichy-Clermont",
+        "League":"FRA-2"
+    },
+    {
+        "Player_Name":"Derrick Byars",
+        "Proballers_ID":36561,
+        "Season":"16-17",
+        "Team":"Delaware Blue Coats",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Adam Haluska",
+        "Proballers_ID":34337,
+        "Season":"02-03",
+        "Team":"Iowa State Cyclones",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Adam Haluska",
+        "Proballers_ID":34337,
+        "Season":"04-05",
+        "Team":"Iowa Hawkeyes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Adam Haluska",
+        "Proballers_ID":34337,
+        "Season":"05-06",
+        "Team":"Iowa Hawkeyes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Adam Haluska",
+        "Proballers_ID":34337,
+        "Season":"06-07",
+        "Team":"Iowa Hawkeyes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Adam Haluska",
+        "Proballers_ID":34337,
+        "Season":"07-08",
+        "Team":"Iowa Wolves",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Adam Haluska",
+        "Proballers_ID":34337,
+        "Season":"08-09",
+        "Team":"Hapoel Jerusalem",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"03-04",
+        "Team":"North Carolina Tar Heels",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"04-05",
+        "Team":"North Carolina Tar Heels",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"05-06",
+        "Team":"North Carolina Tar Heels",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"06-07",
+        "Team":"North Carolina Tar Heels",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"07-08",
+        "Team":"Aris BC",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"08-09",
+        "Team":"Vanoli Soresina",
+        "League":"ITA-2"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"08-09",
+        "Team":"La Fortezza Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"09-10",
+        "Team":"Obradoiro CAB",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"10-11",
+        "Team":"Brose Bamberg",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"11-12",
+        "Team":"Khimik Yuzhny",
+        "League":"UKR-1"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"13-14",
+        "Team":"Le Mans",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"14-15",
+        "Team":"Santeros de Aguada",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"16-17",
+        "Team":"Ryukyu Golden Kings",
+        "League":"JAP-1"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"17-18",
+        "Team":"Quebradillas Pirates",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"18-19",
+        "Team":"Quebradillas Pirates",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"19-20",
+        "Team":"Mineros de Zacatecas",
+        "League":"MEX-1"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"19-20",
+        "Team":"Vaqueros de Bayam\u00f3n",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"21-22",
+        "Team":"Plateros de Fresnillo",
+        "League":"MEX-1"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"21-22",
+        "Team":"Quimsa",
+        "League":"ARG-1"
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"21-22",
+        "Team":"Quimsa",
+        "League":"BCL Am."
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"22-23",
+        "Team":"UdeC",
+        "League":"BCL Am."
+    },
+    {
+        "Player_Name":"Reyshawn Terry",
+        "Proballers_ID":33200,
+        "Season":"23-24",
+        "Team":"Mineros de Zacatecas",
+        "League":"MEX-1"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"03-04",
+        "Team":"Marist Red Foxes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"04-05",
+        "Team":"Marist Red Foxes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"05-06",
+        "Team":"Marist Red Foxes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"06-07",
+        "Team":"Marist Red Foxes",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"07-08",
+        "Team":"Rytas Vilnius",
+        "League":"LIT-1"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"09-10",
+        "Team":"Telekom Baskets Bonn",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"10-11",
+        "Team":"Kolossos H Hotels",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"11-12",
+        "Team":"Telekom Baskets Bonn",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"12-13",
+        "Team":"Telekom Baskets Bonn",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"13-14",
+        "Team":"Telekom Baskets Bonn",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"13-14",
+        "Team":"Brose Bamberg",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"14-15",
+        "Team":"Delteco GBC",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"15-16",
+        "Team":"Tigers T\u00fcbingen",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"16-17",
+        "Team":"Tigers T\u00fcbingen",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"17-18",
+        "Team":"Tigers T\u00fcbingen",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"18-19",
+        "Team":"GIESSEN 46ers",
+        "League":"GER-1"
+    },
+    {
+        "Player_Name":"Jared Jordan",
+        "Proballers_ID":35336,
+        "Season":"19-20",
+        "Team":"CSU Sibiu",
+        "League":"ROM-1"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"03-04",
+        "Team":"Massachusetts Minutemen",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"04-05",
+        "Team":"Massachusetts Minutemen",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"05-06",
+        "Team":"Massachusetts Minutemen",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"06-07",
+        "Team":"Massachusetts Minutemen",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"07-08",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"07-08",
+        "Team":"Los Angeles D-Fenders",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"07-08",
+        "Team":"Miami Heat",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"08-09",
+        "Team":"Partizan",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"08-09",
+        "Team":"Partizan",
+        "League":"SRB-1"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"09-10",
+        "Team":"Maccabi Tel Aviv",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"10-11",
+        "Team":"Maine Red Claws",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"11-12",
+        "Team":"Obradoiro CAB",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"12-13",
+        "Team":"Panathinaikos Athens",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"13-14",
+        "Team":"Panathinaikos Athens",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"14-15",
+        "Team":"Anadolu Efes Istanbul",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"15-16",
+        "Team":"Galatasaray",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"16-17",
+        "Team":"Texas Legends",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"17-18",
+        "Team":"UNICS Kazan",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Stephane Lasme",
+        "Proballers_ID":33581,
+        "Season":"18-19",
+        "Team":"Panathinaikos Athens",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"03-04",
+        "Team":"California Golden Bears",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"04-05",
+        "Team":"California Golden Bears",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"06-07",
+        "Team":"Fresno State Bulldogs",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"07-08",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"08-09",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"09-10",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"09-10",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"10-11",
+        "Team":"Charlotte Bobcats",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"11-12",
+        "Team":"Golden State Warriors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"12-13",
+        "Team":"Toronto Raptors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"12-13",
+        "Team":"New Orleans Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"13-14",
+        "Team":"Santa Cruz Warriors",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"13-14",
+        "Team":"Oklahoma City Blue",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"13-14",
+        "Team":"Gigantes de Guayana",
+        "League":"VEN-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"14-15",
+        "Team":"Hapoel Eilat",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"14-15",
+        "Team":"Hapoel Holon",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"15-16",
+        "Team":"Dongguan Leopards",
+        "League":"CHN-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"15-16",
+        "Team":"Leones de Ponce",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"17-18",
+        "Team":"Aguacateros de Michoac\u00e1n",
+        "League":"MEX-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"18-19",
+        "Team":"Aguacateros de Michoac\u00e1n",
+        "League":"MEX-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"18-19",
+        "Team":"Metros de Santiago",
+        "League":"DOM-1"
+    },
+    {
+        "Player_Name":"Dominic McGuire",
+        "Proballers_ID":37478,
+        "Season":"19-20",
+        "Team":"Real Esteli",
+        "League":"BCL Am."
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"03-04",
+        "Team":"Barcelona",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"04-05",
+        "Team":"Barcelona",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"05-06",
+        "Team":"Barcelona",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"06-07",
+        "Team":"Girona FC",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"07-08",
+        "Team":"Girona FC",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"08-09",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"09-10",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"10-11",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"11-12",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"12-13",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"13-14",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"14-15",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"15-16",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"16-17",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"17-18",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"18-19",
+        "Team":"Memphis Grizzlies",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"18-19",
+        "Team":"Toronto Raptors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"19-20",
+        "Team":"Toronto Raptors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"20-21",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"21-22",
+        "Team":"Basquet Girona",
+        "League":"SPA-2"
+    },
+    {
+        "Player_Name":"Marc Gasol",
+        "Proballers_ID":18298,
+        "Season":"22-23",
+        "Team":"Basquet Girona",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Aaron Gray",
+        "Proballers_ID":34207,
+        "Season":"03-04",
+        "Team":"Pittsburgh Panthers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Aaron Gray",
+        "Proballers_ID":34207,
+        "Season":"04-05",
+        "Team":"Pittsburgh Panthers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Aaron Gray",
+        "Proballers_ID":34207,
+        "Season":"05-06",
+        "Team":"Pittsburgh Panthers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Aaron Gray",
+        "Proballers_ID":34207,
+        "Season":"06-07",
+        "Team":"Pittsburgh Panthers",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Aaron Gray",
+        "Proballers_ID":34207,
+        "Season":"07-08",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Gray",
+        "Proballers_ID":34207,
+        "Season":"08-09",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Gray",
+        "Proballers_ID":34207,
+        "Season":"09-10",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Gray",
+        "Proballers_ID":34207,
+        "Season":"09-10",
+        "Team":"New Orleans Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Gray",
+        "Proballers_ID":34207,
+        "Season":"10-11",
+        "Team":"New Orleans Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Gray",
+        "Proballers_ID":34207,
+        "Season":"11-12",
+        "Team":"Toronto Raptors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Gray",
+        "Proballers_ID":34207,
+        "Season":"12-13",
+        "Team":"Toronto Raptors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Gray",
+        "Proballers_ID":34207,
+        "Season":"13-14",
+        "Team":"Toronto Raptors",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Aaron Gray",
+        "Proballers_ID":34207,
+        "Season":"13-14",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"03-04",
+        "Team":"Sakalai",
+        "League":"LIT-1"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"04-05",
+        "Team":"Sakalai",
+        "League":"LIT-1"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"05-06",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"06-07",
+        "Team":"Maroussi",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"07-08",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"08-09",
+        "Team":"Iurbentia Bilbao",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"09-10",
+        "Team":"Bizkaia Bilbao",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"10-11",
+        "Team":"Eskisehir Basket",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"11-12",
+        "Team":"Rytas Vilnius",
+        "League":"LIT-1"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"11-12",
+        "Team":"Rytas Vilnius",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"12-13",
+        "Team":"Rytas Vilnius",
+        "League":"LIT-1"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"12-13",
+        "Team":"Rytas Vilnius",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"13-14",
+        "Team":"Rytas Vilnius",
+        "League":"LIT-1"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"13-14",
+        "Team":"Rytas Vilnius",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"14-15",
+        "Team":"Darussafaka",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"15-16",
+        "Team":"Zalgiris Kaunas",
+        "League":"LIT-1"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"16-17",
+        "Team":"Zalgiris Kaunas",
+        "League":"LIT-1"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"17-18",
+        "Team":"Neptunas",
+        "League":"LIT-1"
+    },
+    {
+        "Player_Name":"Renaldas Seibutis",
+        "Proballers_ID":21585,
+        "Season":"18-19",
+        "Team":"Zaragoza",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"JamesOn Curry",
+        "Proballers_ID":33792,
+        "Season":"04-05",
+        "Team":"Oklahoma State Cowboys",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"JamesOn Curry",
+        "Proballers_ID":33792,
+        "Season":"05-06",
+        "Team":"Oklahoma State Cowboys",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"JamesOn Curry",
+        "Proballers_ID":33792,
+        "Season":"06-07",
+        "Team":"Oklahoma State Cowboys",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"JamesOn Curry",
+        "Proballers_ID":33792,
+        "Season":"07-08",
+        "Team":"Iowa Wolves",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"JamesOn Curry",
+        "Proballers_ID":33792,
+        "Season":"08-09",
+        "Team":"Pau-Lacq-Orthez",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"JamesOn Curry",
+        "Proballers_ID":33792,
+        "Season":"09-10",
+        "Team":"Springfield Armor",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"JamesOn Curry",
+        "Proballers_ID":33792,
+        "Season":"10-11",
+        "Team":"Springfield Armor",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"JamesOn Curry",
+        "Proballers_ID":33792,
+        "Season":"11-12",
+        "Team":"Springfield Armor",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"JamesOn Curry",
+        "Proballers_ID":33792,
+        "Season":"11-12",
+        "Team":"La Briosa Barcellona",
+        "League":"ITA-2"
+    },
+    {
+        "Player_Name":"JamesOn Curry",
+        "Proballers_ID":33792,
+        "Season":"13-14",
+        "Team":"Springfield Armor",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"JamesOn Curry",
+        "Proballers_ID":33792,
+        "Season":"13-14",
+        "Team":"Bakersfield Jam",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"04-05",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"05-06",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"06-07",
+        "Team":"Florida Gators",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"07-08",
+        "Team":"Portland Trail Blazers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"07-08",
+        "Team":"Idaho Stampede",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"07-08",
+        "Team":"Denver Nuggets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"07-08",
+        "Team":"Texas Legends",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"08-09",
+        "Team":"Zaragoza",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"09-10",
+        "Team":"AEK Athens",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"10-11",
+        "Team":"Gran Canaria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"11-12",
+        "Team":"Gran Canaria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"11-12",
+        "Team":"Tofas Bursa",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"12-13",
+        "Team":"La Briosa Barcellona",
+        "League":"ITA-2"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"13-14",
+        "Team":"Limoges CSP",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"14-15",
+        "Team":"ASVEL Lyon-Villeurbanne",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"15-16",
+        "Team":"Sidigas Avellino",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"15-16",
+        "Team":"AEK Athens",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"16-17",
+        "Team":"Bnei Herzeliya",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"17-18",
+        "Team":"Bnei Herzeliya",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"18-19",
+        "Team":"Antibes",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"19-20",
+        "Team":"Le Mans",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Taurean Green",
+        "Proballers_ID":36450,
+        "Season":"20-21",
+        "Team":"Stal Ostr\u00f3w Wielkopolski",
+        "League":"POL-1"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"03-04",
+        "Team":"Syracuse Orange",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"04-05",
+        "Team":"Syracuse Orange",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"05-06",
+        "Team":"Syracuse Orange",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"06-07",
+        "Team":"Syracuse Orange",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"07-08",
+        "Team":"Cleveland Cavaliers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"07-08",
+        "Team":"Iowa Wolves",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"07-08",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"08-09",
+        "Team":"Chicago Bulls",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"08-09",
+        "Team":"New York Knicks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"09-10",
+        "Team":"Gravelines-Dunkerque",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"10-11",
+        "Team":"Vichy",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"11-12",
+        "Team":"Cholet",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"12-13",
+        "Team":"Sioux Falls Skyforce",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"12-13",
+        "Team":"Capitanes de Arecibo",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"13-14",
+        "Team":"Krasnye Krylia",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"14-15",
+        "Team":"CSKA Moscow",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"15-16",
+        "Team":"CSKA Moscow",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"16-17",
+        "Team":"Panathinaikos Athens",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"17-18",
+        "Team":"Cedevita Zagreb",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"17-18",
+        "Team":"Cedevita Zagreb",
+        "League":"CRO-1"
+    },
+    {
+        "Player_Name":"Demetris Nichols",
+        "Proballers_ID":34283,
+        "Season":"18-19",
+        "Team":"Sidigas Avellino",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"04-05",
+        "Team":"Townsville Crocodiles",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"05-06",
+        "Team":"Townsville Crocodiles",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"06-07",
+        "Team":"Townsville Crocodiles",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"07-08",
+        "Team":"Panionios",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"08-09",
+        "Team":"Panellinios BC",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"09-10",
+        "Team":"Besiktas S.J.",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"10-11",
+        "Team":"Rytas Vilnius",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"10-11",
+        "Team":"Rytas Vilnius",
+        "League":"LIT-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"11-12",
+        "Team":"Rytas Vilnius",
+        "League":"LIT-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"11-12",
+        "Team":"Rytas Vilnius",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"11-12",
+        "Team":"Valencia Basket",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"12-13",
+        "Team":"Gran Canaria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"13-14",
+        "Team":"Gran Canaria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"14-15",
+        "Team":"Gran Canaria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"15-16",
+        "Team":"Gran Canaria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"16-17",
+        "Team":"Sydney Kings",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"16-17",
+        "Team":"AEK Athens",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"17-18",
+        "Team":"Sydney Kings",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"18-19",
+        "Team":"Sydney Kings",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"19-20",
+        "Team":"Sydney Kings",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"20-21",
+        "Team":"Sydney Kings",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"21-22",
+        "Team":"Melbourne United",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"22-23",
+        "Team":"Melbourne United",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Brad Newley",
+        "Proballers_ID":21433,
+        "Season":"23-24",
+        "Team":"Melbourne United",
+        "League":"AUS-1"
+    },
+    {
+        "Player_Name":"Herbert Hill",
+        "Proballers_ID":34215,
+        "Season":"03-04",
+        "Team":"Providence Friars",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Herbert Hill",
+        "Proballers_ID":34215,
+        "Season":"04-05",
+        "Team":"Providence Friars",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Herbert Hill",
+        "Proballers_ID":34215,
+        "Season":"05-06",
+        "Team":"Providence Friars",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Herbert Hill",
+        "Proballers_ID":34215,
+        "Season":"13-14",
+        "Team":"Caciques de Humacao",
+        "League":"PR-1"
+    },
+    {
+        "Player_Name":"Herbert Hill",
+        "Proballers_ID":34215,
+        "Season":"17-18",
+        "Team":"Kobe Storks",
+        "League":"JAP-1"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"04-05",
+        "Team":"Nevada Wolf Pack",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"05-06",
+        "Team":"Nevada Wolf Pack",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"06-07",
+        "Team":"Nevada Wolf Pack",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"07-08",
+        "Team":"Oklahoma City Blue",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"07-08",
+        "Team":"Milwaukee Bucks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"08-09",
+        "Team":"Milwaukee Bucks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"09-10",
+        "Team":"Minnesota Timberwolves",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"10-11",
+        "Team":"Cleveland Cavaliers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"11-12",
+        "Team":"Cleveland Cavaliers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"11-12",
+        "Team":"Los Angeles Lakers",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"12-13",
+        "Team":"Charlotte Bobcats",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"13-14",
+        "Team":"Charlotte Bobcats",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"13-14",
+        "Team":"Milwaukee Bucks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"14-15",
+        "Team":"Sacramento Kings",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"14-15",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"15-16",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"16-17",
+        "Team":"Charlotte Hornets",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"17-18",
+        "Team":"New York Knicks",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Ramon Sessions",
+        "Proballers_ID":37544,
+        "Season":"17-18",
+        "Team":"Washington Wizards",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"03-04",
+        "Team":"DePaul Blue Demons",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"04-05",
+        "Team":"DePaul Blue Demons",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"05-06",
+        "Team":"DePaul Blue Demons",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"06-07",
+        "Team":"DePaul Blue Demons",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"07-08",
+        "Team":"Indiana Mad Ants",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"07-08",
+        "Team":"Orlandina",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"08-09",
+        "Team":"AEL Larissa",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"09-10",
+        "Team":"Cholet",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"10-11",
+        "Team":"Cholet",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"11-12",
+        "Team":"CSKA Moscow",
+        "League":"RUS-1"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"11-12",
+        "Team":"CSKA Moscow",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"12-13",
+        "Team":"Banvit",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"13-14",
+        "Team":"Banvit",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"14-15",
+        "Team":"Banvit",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"15-16",
+        "Team":"Tofas Bursa",
+        "League":"TUR-2"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"16-17",
+        "Team":"Tofas Bursa",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"17-18",
+        "Team":"Tofas Bursa",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"18-19",
+        "Team":"Tofas Bursa",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Sammy Mejia",
+        "Proballers_ID":34129,
+        "Season":"19-20",
+        "Team":"Tofas Bursa",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"02-03",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"03-04",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"04-05",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"05-06",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"06-07",
+        "Team":"Olympia Larissa",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"07-08",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"08-09",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"09-10",
+        "Team":"Unicaja Malaga",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"10-11",
+        "Team":"Unicaja Malaga",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"11-12",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"12-13",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"13-14",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"14-15",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"15-16",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"16-17",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"17-18",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"18-19",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"Giorgos Printezis",
+        "Proballers_ID":17735,
+        "Season":"21-22",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"03-04",
+        "Team":"Maryland Terrapins",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"04-05",
+        "Team":"Maryland Terrapins",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"05-06",
+        "Team":"Maryland Terrapins",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"06-07",
+        "Team":"Maryland Terrapins",
+        "League":"NCAA"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"07-08",
+        "Team":"Phoenix Suns",
+        "League":"USA-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"07-08",
+        "Team":"New Mexico Thunderbirds",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"08-09",
+        "Team":"Teamsystem Bologna",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"09-10",
+        "Team":"Stockton Kings",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"10-11",
+        "Team":"Stockton Kings",
+        "League":"USA-2"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"10-11",
+        "Team":"Rytas Vilnius",
+        "League":"LIT-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"10-11",
+        "Team":"Rytas Vilnius",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"11-12",
+        "Team":"Hapoel Jerusalem",
+        "League":"ISR-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"12-13",
+        "Team":"Cibona Zagreb",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"12-13",
+        "Team":"Cibona Zagreb",
+        "League":"CRO-1 Up"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"13-14",
+        "Team":"Cibona Zagreb",
+        "League":"ABA-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"13-14",
+        "Team":"Pau-Lacq-Orthez",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"14-15",
+        "Team":"Pinar Karsiyaka",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"15-16",
+        "Team":"Olympiacos Piraeus",
+        "League":"GRE-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"16-17",
+        "Team":"Besiktas S.J.",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"17-18",
+        "Team":"Besiktas S.J.",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"18-19",
+        "Team":"Gran Canaria",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"19-20",
+        "Team":"Orl\u00e9ans",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"20-21",
+        "Team":"UCAM Murcia",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"21-22",
+        "Team":"Pau-Lacq-Orthez",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"21-22",
+        "Team":"Orl\u00e9ans",
+        "League":"FRA-1"
+    },
+    {
+        "Player_Name":"DJ Strawberry",
+        "Proballers_ID":33173,
+        "Season":"21-22",
+        "Team":"Zamalek",
+        "League":"BAL"
+    },
+    {
+        "Player_Name":"Milovan Rakovic",
+        "Proballers_ID":21573,
+        "Season":"05-06",
+        "Team":"KK Atlas Novi-Beograd",
+        "League":"S-M1"
+    },
+    {
+        "Player_Name":"Milovan Rakovic",
+        "Proballers_ID":21573,
+        "Season":"05-06",
+        "Team":"KK Atlas Novi-Beograd",
+        "League":"SER1"
+    },
+    {
+        "Player_Name":"Milovan Rakovic",
+        "Proballers_ID":21573,
+        "Season":"06-07",
+        "Team":"Mega Basket",
+        "League":"SRB-1"
+    },
+    {
+        "Player_Name":"Milovan Rakovic",
+        "Proballers_ID":21573,
+        "Season":"07-08",
+        "Team":"Spartak St.Petersb.",
+        "League":"RUS-1"
+    },
+    {
+        "Player_Name":"Milovan Rakovic",
+        "Proballers_ID":21573,
+        "Season":"09-10",
+        "Team":"Spartak St.Petersb.",
+        "League":"RUS-1"
+    },
+    {
+        "Player_Name":"Milovan Rakovic",
+        "Proballers_ID":21573,
+        "Season":"09-10",
+        "Team":"Spartak St.Petersb.",
+        "League":"RU-1Down"
+    },
+    {
+        "Player_Name":"Milovan Rakovic",
+        "Proballers_ID":21573,
+        "Season":"10-11",
+        "Team":"Ducato Siena",
+        "League":"ITA-1"
+    },
+    {
+        "Player_Name":"Milovan Rakovic",
+        "Proballers_ID":21573,
+        "Season":"11-12",
+        "Team":"Zalgiris Kaunas",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Milovan Rakovic",
+        "Proballers_ID":21573,
+        "Season":"11-12",
+        "Team":"Zalgiris Kaunas",
+        "League":"LIT-1"
+    },
+    {
+        "Player_Name":"Milovan Rakovic",
+        "Proballers_ID":21573,
+        "Season":"12-13",
+        "Team":"Gescrap Bizkaia Bilbao",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Milovan Rakovic",
+        "Proballers_ID":21573,
+        "Season":"13-14",
+        "Team":"Zenit St. Petersburg",
+        "League":"VTB"
+    },
+    {
+        "Player_Name":"Milovan Rakovic",
+        "Proballers_ID":21573,
+        "Season":"14-15",
+        "Team":"Turk Telekom",
+        "League":"TUR-1"
+    },
+    {
+        "Player_Name":"Milovan Rakovic",
+        "Proballers_ID":21573,
+        "Season":"15-16",
+        "Team":"Joventut",
+        "League":"SPA-1"
+    },
+    {
+        "Player_Name":"Milovan Rakovic",
+        "Proballers_ID":21573,
+        "Season":"17-18",
+        "Team":"Union Neuch\u00e2tel",
+        "League":"SWI-1"
+    }
+]
